@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  25 JUN 2018 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  25 JUN 2018 17:40
 entering extended mode
 **./zangboeksken.tex
 (zangboeksken.tex
@@ -175,18 +175,18 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
  (zangboeksken.aux)
 \openout1 = `zangboeksken.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 ("C:\Users\Jens Du Four\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mk
 ii"
@@ -263,7 +263,7 @@ rsion <1.7>, but at most version <1.5> allowed
 <voorblad.pdf, id=1, 420.82219pt x 597.73312pt>
 File: voorblad.pdf Graphic file (type pdf)
 <use voorblad.pdf>
-Package pdftex.def Info: voorblad.pdf  used on input line 14.
+Package pdftex.def Info: voorblad.pdf  used on input line 15.
 (pdftex.def)             Requested size: 420.82115pt x 597.73166pt.
 
 
@@ -271,7 +271,7 @@ pdfTeX warning: pdflatex.exe (file ./voorblad.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
 File: voorblad.pdf Graphic file (type pdf)
 <use voorblad.pdf>
-Package pdftex.def Info: voorblad.pdf  used on input line 14.
+Package pdftex.def Info: voorblad.pdf  used on input line 15.
 (pdftex.def)             Requested size: 420.82115pt x 597.73166pt.
 
 
@@ -284,23 +284,23 @@ rsion <1.7>, but at most version <1.5> allowed
 <voorblad.pdf, id=4, page=1, 420.82219pt x 597.73312pt>
 File: voorblad.pdf Graphic file (type pdf)
 <use voorblad.pdf, page 1>
-Package pdftex.def Info: voorblad.pdf , page1 used on input line 14.
+Package pdftex.def Info: voorblad.pdf , page1 used on input line 15.
 (pdftex.def)             Requested size: 420.82115pt x 597.73166pt.
 File: voorblad.pdf Graphic file (type pdf)
 <use voorblad.pdf, page 1>
-Package pdftex.def Info: voorblad.pdf , page1 used on input line 14.
+Package pdftex.def Info: voorblad.pdf , page1 used on input line 15.
 (pdftex.def)             Requested size: 560.36713pt x 795.94186pt.
 File: voorblad.pdf Graphic file (type pdf)
 <use voorblad.pdf, page 1>
-Package pdftex.def Info: voorblad.pdf , page1 used on input line 14.
+Package pdftex.def Info: voorblad.pdf , page1 used on input line 15.
 (pdftex.def)             Requested size: 560.36713pt x 795.94186pt.
 File: voorblad.pdf Graphic file (type pdf)
 <use voorblad.pdf, page 1>
-Package pdftex.def Info: voorblad.pdf , page1 used on input line 14.
+Package pdftex.def Info: voorblad.pdf , page1 used on input line 15.
 (pdftex.def)             Requested size: 560.36713pt x 795.94186pt.
 File: voorblad.pdf Graphic file (type pdf)
 <use voorblad.pdf, page 1>
-Package pdftex.def Info: voorblad.pdf , page1 used on input line 14.
+Package pdftex.def Info: voorblad.pdf , page1 used on input line 15.
 (pdftex.def)             Requested size: 560.36713pt x 795.94186pt.
 [1
 
@@ -308,7 +308,7 @@ Package pdftex.def Info: voorblad.pdf , page1 used on input line 14.
 <./images/img1.jpg, id=19, 171.64125pt x 137.7647pt>
 File: ./images/img1.jpg Graphic file (type jpg)
 <use ./images/img1.jpg>
-Package pdftex.def Info: ./images/img1.jpg  used on input line 46.
+Package pdftex.def Info: ./images/img1.jpg  used on input line 48.
 (pdftex.def)             Requested size: 137.9979pt x 110.76054pt.
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ´ in font cmr10!
@@ -317,33 +317,9 @@ Missing character: There is no ´ in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ´ in font cmr10!
 
-Underfull \vbox (badness 2564) detected at line 65
+Underfull \vbox (badness 2564) detected at line 67
  []
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no √ in font cmr10!
@@ -370,7 +346,7 @@ Missing character: There is no † in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no † in font cmr10!
 
-Underfull \vbox (badness 10000) detected at line 110
+Underfull \vbox (badness 10000) detected at line 112
  []
 
 [2{C:/Users/Jens Du Four/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./
@@ -378,49 +354,56 @@ images/img1.jpg>]
 <./images/img2.jpg, id=25, 255.8358pt x 361.35pt>
 File: ./images/img2.jpg Graphic file (type jpg)
 <use ./images/img2.jpg>
-Package pdftex.def Info: ./images/img2.jpg  used on input line 136.
+Package pdftex.def Info: ./images/img2.jpg  used on input line 138.
 (pdftex.def)             Requested size: 137.9979pt x 194.91656pt.
 
-Underfull \vbox (badness 10000) detected at line 171
+Underfull \vbox (badness 10000) detected at line 173
  []
 
 [3 <./images/img2.jpg>]
-Underfull \vbox (badness 10000) detected at line 203
+<./images/deswintersalshetregent.jpg, id=29, 1043.9pt x 1307.88625pt>
+File: ./images/deswintersalshetregent.jpg Graphic file (type jpg)
+<use ./images/deswintersalshetregent.jpg>
+Package pdftex.def Info: ./images/deswintersalshetregent.jpg  used on input lin
+e 175.
+(pdftex.def)             Requested size: 137.9979pt x 172.88498pt.
+
+Underfull \vbox (badness 3439) detected at line 208
  []
 
 
-Underfull \vbox (badness 1067) detected at line 214
+Underfull \vbox (badness 1067) detected at line 219
  []
 
-[4]
-<./images/img3.jpg, id=33, 202.21pt x 277.035pt>
+[4 <./images/deswintersalshetregent.jpg>]
+<./images/img3.jpg, id=34, 202.21pt x 277.035pt>
 File: ./images/img3.jpg Graphic file (type jpg)
 <use ./images/img3.jpg>
-Package pdftex.def Info: ./images/img3.jpg  used on input line 216.
+Package pdftex.def Info: ./images/img3.jpg  used on input line 221.
 (pdftex.def)             Requested size: 137.9979pt x 189.0661pt.
 
-Underfull \vbox (badness 10000) detected at line 228
+Underfull \vbox (badness 10000) detected at line 233
  []
 
 
-Underfull \vbox (badness 10000) detected at line 272
+Underfull \vbox (badness 10000) detected at line 277
  []
 
 [5 <./images/img3.jpg>]
-<./images/img4.jpg, id=37, 481.8pt x 355.92975pt>
+<./images/img4.jpg, id=38, 481.8pt x 355.92975pt>
 File: ./images/img4.jpg Graphic file (type jpg)
 <use ./images/img4.jpg>
-Package pdftex.def Info: ./images/img4.jpg  used on input line 274.
+Package pdftex.def Info: ./images/img4.jpg  used on input line 279.
 (pdftex.def)             Requested size: 137.9979pt x 101.9461pt.
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ∂ in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ∂ in font cmr10!
  [6 <./images/img4.jpg>]
-<./images/img5.jpg, id=41, 295.70474pt x 231.264pt>
+<./images/img5.jpg, id=42, 295.70474pt x 231.264pt>
 File: ./images/img5.jpg Graphic file (type jpg)
 <use ./images/img5.jpg>
-Package pdftex.def Info: ./images/img5.jpg  used on input line 323.
+Package pdftex.def Info: ./images/img5.jpg  used on input line 328.
 (pdftex.def)             Requested size: 137.9979pt x 107.9248pt.
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ® in font cmr10!
@@ -471,13 +454,18 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no √ in font cmssi12!
 Missing character: There is no ® in font cmssi12!
  [7 <./images/img5.jpg>]
-<./images/img6.jpg, id=46, 361.35pt x 499.8675pt>
+<./images/img6.jpg, id=47, 361.35pt x 499.8675pt>
 File: ./images/img6.jpg Graphic file (type jpg)
 <use ./images/img6.jpg>
-Package pdftex.def Info: ./images/img6.jpg  used on input line 382.
+Package pdftex.def Info: ./images/img6.jpg  used on input line 387.
 (pdftex.def)             Requested size: 137.9979pt x 190.89742pt.
 
 [8 <./images/img6.jpg>]
+<./images/bergvagebunden.jpg, id=51, 504.88625pt x 573.14125pt>
+File: ./images/bergvagebunden.jpg Graphic file (type jpg)
+<use ./images/bergvagebunden.jpg>
+Package pdftex.def Info: ./images/bergvagebunden.jpg  used on input line 446.
+(pdftex.def)             Requested size: 137.9979pt x 156.65671pt.
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ∂ in font cmr10!
 Missing character: There is no √ in font cmr10!
@@ -513,66 +501,66 @@ Missing character: There is no √ in font cmr10!
 Missing character: There is no ∂ in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ∂ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
 
-Underfull \vbox (badness 10000) detected at line 478
+Underfull \vbox (badness 3250) detected at line 517
  []
 
+[9 <./images/bergvagebunden.jpg>]
+<./images/bertrodenbach.jpg, id=55, 333.8874pt x 438.9198pt>
+File: ./images/bertrodenbach.jpg Graphic file (type jpg)
+<use ./images/bertrodenbach.jpg>
+Package pdftex.def Info: ./images/bertrodenbach.jpg  used on input line 519.
+(pdftex.def)             Requested size: 137.9979pt x 181.4116pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
 
-Underfull \vbox (badness 3250) detected at line 509
+Underfull \vbox (badness 10000) detected at line 573
  []
 
-[9]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
+[10 <./images/bertrodenbach.jpg>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -612,7 +600,6 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [10]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -620,47 +607,37 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Underfull \vbox (badness 10000) detected at line 671
+Underfull \vbox (badness 10000) detected at line 682
  []
 
 [11]
+<./images/cocklesandmussels.jpg, id=62, 449.68pt x 451.6875pt>
+File: ./images/cocklesandmussels.jpg Graphic file (type jpg)
+<use ./images/cocklesandmussels.jpg>
+Package pdftex.def Info: ./images/cocklesandmussels.jpg  used on input line 684
+.
+(pdftex.def)             Requested size: 137.9979pt x 138.61566pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-
-Underfull \vbox (badness 10000) detected at line 728
- []
-
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-
-Underfull \vbox (badness 2197) detected at line 762
- []
-
-[12]
+ [12 <./images/cocklesandmussels.jpg>]
+<./images/daarwaseenwufdiespon.jpg, id=66, 597.23125pt x 597.23125pt>
+File: ./images/daarwaseenwufdiespon.jpg Graphic file (type jpg)
+<use ./images/daarwaseenwufdiespon.jpg>
+Package pdftex.def Info: ./images/daarwaseenwufdiespon.jpg  used on input line 
+744.
+(pdftex.def)             Requested size: 137.9979pt x 137.9982pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
 
-Underfull \vbox (badness 4266) detected at line 799
+Underfull \vbox (badness 4266) detected at line 816
  []
 
+[13 <./images/daarwaseenwufdiespon.jpg>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
@@ -679,10 +656,16 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ª in font cmr10!
 
-Underfull \vbox (badness 7099) detected at line 836
+Underfull \vbox (badness 7099) detected at line 853
  []
 
-[13]
+[14]
+<./images/deboerhadmaarenenschoen.jpg, id=74, 515.9275pt x 679.53876pt>
+File: ./images/deboerhadmaarenenschoen.jpg Graphic file (type jpg)
+<use ./images/deboerhadmaarenenschoen.jpg>
+Package pdftex.def Info: ./images/deboerhadmaarenenschoen.jpg  used on input li
+ne 863.
+(pdftex.def)             Requested size: 137.9979pt x 181.75667pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¶ in font cmr10!
@@ -713,28 +696,1282 @@ Missing character: There is no ¶ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¶ in font cmr10!
- [14] [15] [16
+
+Underfull \vbox (badness 10000) detected at line 906
+ []
+
+
+Underfull \vbox (badness 6078) detected at line 955
+ []
+
+[15 <./images/deboerhadmaarenenschoen.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+<./images/dekikker.jpg, id=78, 389.14615pt x 280.74115pt>
+File: ./images/dekikker.jpg Graphic file (type jpg)
+<use ./images/dekikker.jpg>
+Package pdftex.def Info: ./images/dekikker.jpg  used on input line 1012.
+(pdftex.def)             Requested size: 137.9979pt x 99.55457pt.
+ [16]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+
+Underfull \vbox (badness 3826) detected at line 1073
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+[17 <./images/dekikker.jpg>]
+<./images/destratenzijdreunen.jpg, id=85, 31.6313pt x 42.59682pt>
+File: ./images/destratenzijdreunen.jpg Graphic file (type jpg)
+<use ./images/destratenzijdreunen.jpg>
+Package pdftex.def Info: ./images/destratenzijdreunen.jpg  used on input line 1
+116.
+(pdftex.def)             Requested size: 137.9979pt x 185.87305pt.
+
+Underfull \vbox (badness 10000) detected at line 1141
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1166
+ []
+
+[18 <./images/destratenzijdreunen.jpg>]
+Underfull \vbox (badness 1616) detected at line 1214
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 1215) detected at line 1254
+ []
+
+[19]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+<./images/diekatkomweer.jpg, id=93, 225.84375pt x 225.84375pt>
+File: ./images/diekatkomweer.jpg Graphic file (type jpg)
+<use ./images/diekatkomweer.jpg>
+Package pdftex.def Info: ./images/diekatkomweer.jpg  used on input line 1280.
+(pdftex.def)             Requested size: 137.9979pt x 138.0057pt.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 1184) detected at line 1319
+ []
+
+[20 <./images/diekatkomweer.jpg>]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+
+Underfull \vbox (badness 3977) detected at line 1391
+ []
+
+[21]
+<./images/diemooiemolen.jpg, id=100, 162.6075pt x 216.81pt>
+File: ./images/diemooiemolen.jpg Graphic file (type jpg)
+<use ./images/diemooiemolen.jpg>
+Package pdftex.def Info: ./images/diemooiemolen.jpg  used on input line 1393.
+(pdftex.def)             Requested size: 137.9979pt x 184.01146pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 6493) detected at line 1436
+ []
+
+[22 <./images/diemooiemolen.jpg>]
+Underfull \vbox (badness 10000) detected at line 1489
+ []
+
+[23]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+ [24]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+ [25]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+<./images/ensavonds.jpg, id=114, 277.035pt x 361.35pt>
+File: ./images/ensavonds.jpg Graphic file (type jpg)
+<use ./images/ensavonds.jpg>
+Package pdftex.def Info: ./images/ensavonds.jpg  used on input line 1698.
+(pdftex.def)             Requested size: 137.9979pt x 179.99637pt.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+ [26 <./images/ensavonds.jpg>]
+Underfull \vbox (badness 10000) detected at line 1788
+ []
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 1806
+ []
+
+[27]
+<./images/ham.jpg, id=121, 493.3632pt x 332.9238pt>
+File: ./images/ham.jpg Graphic file (type jpg)
+<use ./images/ham.jpg>
+Package pdftex.def Info: ./images/ham.jpg  used on input line 1808.
+(pdftex.def)             Requested size: 137.9979pt x 93.1215pt.
+
+Underfull \vbox (badness 10000) detected at line 1842
+ []
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 1863
+ []
+
+[28 <./images/ham.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 1132) detected at line 1902
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+
+Underfull \vbox (badness 5741) detected at line 1968
+ []
+
+[29]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 3547) detected at line 1999
+ []
+
+<./images/hetvendel.jpg, id=128, 204.765pt x 247.92625pt>
+File: ./images/hetvendel.jpg Graphic file (type jpg)
+<use ./images/hetvendel.jpg>
+Package pdftex.def Info: ./images/hetvendel.jpg  used on input line 2001.
+(pdftex.def)             Requested size: 137.9979pt x 167.09709pt.
+[30 <./images/hetvendel.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 2062
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+[31]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmssi12!
+Missing character: There is no Ä in font cmssi12!
+Missing character: There is no ô in font cmssi12!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+ [32]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<./images/inderonde.jpg, id=139, 462.72874pt x 517.935pt>
+File: ./images/inderonde.jpg Graphic file (type jpg)
+<use ./images/inderonde.jpg>
+Package pdftex.def Info: ./images/inderonde.jpg  used on input line 2258.
+(pdftex.def)             Requested size: 137.9979pt x 154.45703pt.
+ [33 <./images/inderonde.jpg>]
+Underfull \vbox (badness 10000) detected at line 2312
+ []
+
+
+Underfull \vbox (badness 1953) detected at line 2333
+ []
+
+[34]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmssi12!
+Missing character: There is no º in font cmssi12!
+Missing character: There is no √ in font cmssi12!
+Missing character: There is no § in font cmssi12!
+ [35]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 2435
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+[36]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+<./images/janklaas.jpg, id=152, 602.25pt x 581.17125pt>
+File: ./images/janklaas.jpg Graphic file (type jpg)
+<use ./images/janklaas.jpg>
+Package pdftex.def Info: ./images/janklaas.jpg  used on input line 2519.
+(pdftex.def)             Requested size: 137.9979pt x 133.16997pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 2573
+ []
+
+[37 <./images/janklaas.jpg>]
+<./images/jefzalveroonsgienkommissekesnimmerdoen.jpg, id=157, 953.5625pt x 1270
+.7475pt>
+File: ./images/jefzalveroonsgienkommissekesnimmerdoen.jpg Graphic file (type jp
+g)
+<use ./images/jefzalveroonsgienkommissekesnimmerdoen.jpg>
+Package pdftex.def Info: ./images/jefzalveroonsgienkommissekesnimmerdoen.jpg  u
+sed on input line 2575.
+(pdftex.def)             Requested size: 137.9979pt x 183.89494pt.
+
+Underfull \vbox (badness 4441) detected at line 2576
+ []
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmssi12!
+Missing character: There is no ´ in font cmssi12!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 2641
+ []
+
+[38 <./images/jefzalveroonsgienkommissekesnimmerdoen.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [39]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 1264) detected at line 2800
+ []
+
+[40]
+<./images/kumbayamylord.jpg, id=167, 670.505pt x 787.94376pt>
+File: ./images/kumbayamylord.jpg Graphic file (type jpg)
+<use ./images/kumbayamylord.jpg>
+Package pdftex.def Info: ./images/kumbayamylord.jpg  used on input line 2802.
+(pdftex.def)             Requested size: 137.9979pt x 162.16673pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+ [41 <./images/kumbayamylord.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 2900
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+[42]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+ [43]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+
+Underfull \vbox (badness 1348) detected at line 3055
+ []
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+[44]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 1565) detected at line 3117
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 3140
+ []
+
+[45]
+Underfull \vbox (badness 10000) detected at line 3168
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 1845) detected at line 3183
+ []
+
+[46]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmssi12!
+Missing character: There is no Ä in font cmssi12!
+Missing character: There is no ô in font cmssi12!
+<./images/oldmacdonald.jpg, id=187, 629.35126pt x 327.2225pt>
+File: ./images/oldmacdonald.jpg Graphic file (type jpg)
+<use ./images/oldmacdonald.jpg>
+Package pdftex.def Info: ./images/oldmacdonald.jpg  used on input line 3231.
+(pdftex.def)             Requested size: 137.9979pt x 71.7495pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+ [47 <./images/oldmacdonald.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmssi12!
+Missing character: There is no Ä in font cmssi12!
+Missing character: There is no ¶ in font cmssi12!
+Missing character: There is no √ in font cmssi12!
+Missing character: There is no § in font cmssi12!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [48]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 3408
+ []
+
+
+Underfull \vbox (badness 2626) detected at line 3428
+ []
+
+[49]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [50]
+Underfull \vbox (badness 2707) detected at line 3602
+ []
+
+<./images/tienkleinevisjes.jpg, id=201, 1204.5pt x 897.3525pt>
+File: ./images/tienkleinevisjes.jpg Graphic file (type jpg)
+<use ./images/tienkleinevisjes.jpg>
+Package pdftex.def Info: ./images/tienkleinevisjes.jpg  used on input line 3604
+.
+(pdftex.def)             Requested size: 137.9979pt x 102.80313pt.
+[51]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 3659
+ []
+
+[52 <./images/tienkleinevisjes.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmssi12!
+Missing character: There is no º in font cmssi12!
+<./images/triomfantelijkliedvandezilvervloot.jpg, id=208, 60.225pt x 57.87622pt
+>
+File: ./images/triomfantelijkliedvandezilvervloot.jpg Graphic file (type jpg)
+<use ./images/triomfantelijkliedvandezilvervloot.jpg>
+Package pdftex.def Info: ./images/triomfantelijkliedvandezilvervloot.jpg  used 
+on input line 3725.
+(pdftex.def)             Requested size: 137.9979pt x 132.62852pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no π in font cmr10!
+
+Underfull \vbox (badness 5446) detected at line 3764
+ []
+
+[53 <./images/triomfantelijkliedvandezilvervloot.jpg>]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 10000) detected at line 3808
+ []
+
+[54]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+<./images/vaarmaarmeekameraad.jpg, id=215, 673.91776pt x 781.11826pt>
+File: ./images/vaarmaarmeekameraad.jpg Graphic file (type jpg)
+<use ./images/vaarmaarmeekameraad.jpg>
+Package pdftex.def Info: ./images/vaarmaarmeekameraad.jpg  used on input line 3
+881.
+(pdftex.def)             Requested size: 137.9979pt x 159.95149pt.
+ [55]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+
+Underfull \vbox (badness 1024) detected at line 3935
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 3960
+ []
+
+[56 <./images/vaarmaarmeekameraad.jpg>]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [57]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+
+Underfull \vbox (badness 2173) detected at line 4119
+ []
+
+[58]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<./images/youaremysunshine.jpg, id=229, 230.8625pt x 230.8625pt>
+File: ./images/youaremysunshine.jpg Graphic file (type jpg)
+<use ./images/youaremysunshine.jpg>
+Package pdftex.def Info: ./images/youaremysunshine.jpg  used on input line 4186
+.
+(pdftex.def)             Requested size: 137.9979pt x 137.9972pt.
+ [59]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+
+Underfull \vbox (badness 2189) detected at line 4283
+ []
+
+[60 <./images/youaremysunshine.jpg>]
+Underfull \vbox (badness 6927) detected at line 4312
+ []
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 8038) detected at line 4338
+ []
+
+[61]
+Underfull \vbox (badness 10000) detected at line 4370
+ []
+
+<./images/zwartbruinisdehazelnoot.jpg, id=240, 513.92pt x 513.92pt>
+File: ./images/zwartbruinisdehazelnoot.jpg Graphic file (type jpg)
+<use ./images/zwartbruinisdehazelnoot.jpg>
+Package pdftex.def Info: ./images/zwartbruinisdehazelnoot.jpg  used on input li
+ne 4372.
+(pdftex.def)             Requested size: 137.9979pt x 137.99959pt.
+
+Underfull \vbox (badness 1442) detected at line 4403
+ []
+
+[62 <./images/zwartbruinisdehazelnoot.jpg>] [63] [64
 
 ]
 \openout3 = `idxfile.sxd'.
 
- (zangboeksken.sxc) (zangboeksken.aux) ) 
+ (zangboeksken.sxc)
+(zangboeksken.aux) ) 
 Here is how much of TeX's memory you used:
- 3187 strings out of 493305
- 44949 string characters out of 3138852
- 134544 words of memory out of 3000000
- 6689 multiletter control sequences out of 15000+200000
+ 3302 strings out of 493305
+ 48601 string characters out of 3138852
+ 145548 words of memory out of 3000000
+ 6781 multiletter control sequences out of 15000+200000
  10276 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,43p,301b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmssi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msy10.pfb>
-Output written on zangboeksken.pdf (16 pages, 1178165 bytes).
+ 41i,18n,43p,301b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on zangboeksken.pdf (64 pages, 3839830 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 267 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
