@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  25 JUN 2018 17:40
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  25 JUN 2018 15:50
+>>>>>>> master
 entering extended mode
 **./zangboeksken.tex
 (zangboeksken.tex
@@ -1958,10 +1962,17 @@ Underfull \vbox (badness 1442) detected at line 4403
  (zangboeksken.sxc)
 (zangboeksken.aux) ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  3302 strings out of 493305
  48601 string characters out of 3138852
  145548 words of memory out of 3000000
  6781 multiletter control sequences out of 15000+200000
+=======
+ 3187 strings out of 493305
+ 44949 string characters out of 3138852
+ 134544 words of memory out of 3000000
+ 6689 multiletter control sequences out of 15000+200000
+>>>>>>> master
  10276 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,18n,43p,301b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
