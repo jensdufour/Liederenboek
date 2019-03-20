@@ -1,1217 +1,3 @@
-% !TeX spellcheck = be_NL
-\documentclass{article}
-\usepackage[lyric]{songs}
-\usepackage{graphicx}
-\usepackage{pdfpages}
-\graphicspath{ {./images/} }
-
-\newindex{mainindex}{idxfile}
-
-
-\nosongnumbers
-
- 
-\begin{document}
-\includepdf{voorblad.pdf} 
-   
-\begin{songs}{}
-\beginsong{'k Heb mijn wagen volgeladen}
-\beginverse*
-'k Heb mijn wagen volgeladen,
-Vol met oude wijven;
-Toen ze op de marrekt kwamen,
-Begonnen zij te kijven
-Nu neem ik van mijn levensdagen
-Geen oude wijven meer op mijn wagen!
-Hop, paardje hop!
-\endverse
-\beginverse*
-'k Heb mijn wagen volgeladen,
-Vol met oude mannen
-Toen zij op de marrekt kwamen,
-Gingen ze samenspannen.
-Nu neem ik van mijn levensdagen
-Geen oude mannen meer op mijn wagen!
-Hop, paardje hop!
-\endverse
-\beginverse*
-'k Heb mijn wagen volgeladen,
-Vol met jonge meisjes
-Toen zij op de marrekt kwamen,
-Zongen zij als sijsjes
-Nu neem ik van mijn levensdagen
-Steeds jonge meisjes op mijn wagen!
-Hop, paardje hop!
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{img1}
-\end{intersong}
-\beginsong{'s Monjdoos}
-\beginverse*
-En 's monjdoos, tein gommen nie weirken.
-En tauÃ«sjendoos gommen op zwier.
-Goensjtoogs zeu zat as e veirken.
-En tonderdoos spauve me zier.
-TvrauÃ«doos, tein gommen beginnen.
-En sooÃ«terdoos emmen geen pree.
-Wa moet er ons vrauken beginnen,
-me azeu ne zatte kadee?
-\endverse
-\beginverse*
-Drinkt, drinkt, drinkt aujlen zat,
-drinkt aujlen e stik in a kleuten.
-Drinkt, drinkt, drinkt aujlen zat,
-drinkt aujlen e stik in a gat.
-\endverse
-\endsong
-\beginsong{'t Is welle, welle, wel}
-\beginverse*
-'t Is welle, welle, wel, 't is wel
-'t Is welle, welle, wel, 't is wel
-'t Is welle, welle, wel,
-'t Is zeker wel,
-'t Is welle, welle, wel, 't is wel
-\endverse
-\endsong
-\beginsong{A la claire Fontaine}
-\beginverse
-A la claire Fontaine
-M'en allant promener,
-J'ai trouvÃ© l'eau si belle
-Que je m'y suis baignÃ©.
-\endverse
-\beginchorus
-Il y a longtemps que je t'aime
-jamais je ne t'oublierai â€¦
-\endchorus
-\beginverse
-Sous les feuilles d'un chÃªne
-Je me suis fait sÃ©cher
-Sur la plus haute branche
-Le rossignol chantait
-\endverse
-\beginverse
-Chante rossignol, chante
-Toi qui as le coeur gai;
-Tu as le coeur Ã  rire
-Moi je l'ai Ã  pleurer.
-\endverse
-\beginverse
-J'ai perdu mon amie
-Sans l'avoir mÃ©ritÃ©
-Pour un bouquet de roses
-Que je lui refusai
-\endverse
-\beginverse
-Je voudrais que la rose
-FÃ»t encore Ã  planter
-Et que ma douce amie
-Fut encore Ã  m'aimer
-\endverse
-\endsong
-\beginsong{A ram sam sam}
-\beginverse*
-A ram sam sam, a ram sam sam
-Goeli goeli goeli goeli
-ram sam sam
-Arabi , Arabi
-Goeli goeli goeli goeli
-ram sam sam.
-\endverse
-\endsong
-\beginsong{Ahoelaba}
-\beginverse
-In d' Afrikaanse bossen, waar alle negers krossen.
-Daar in die wildernis, daar woont mijn Oela Oelaba.
-\endverse
-\beginchorus
-Ahoelaba, ik van je hou.
-Ahoelaba, jij wordt mijn Afrikaanse vrouw.
-\endchorus
-\beginverse
-Ik bloemen pluk voor Oela, maar Oela ze verkoop.
-Ik Oela kusje geven, en Oela aan de loop.
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{img2}
-\end{intersong}
-\beginsong{Al die willen te kaap'ren  varen}
-\beginverse*
-Al die willen te kaap'ren  varen, moeten mannen met baarden zijn.
-Jan, Piet, Tjores en Corneel: Die hebben baarden, die hebben baarden.
-Jan, Piet, Tjores en Corneel: Die hebben baarden, zij varen mee.
-\endverse
-\endsong
-
-\beginsong{Aloutte}
-\beginverse
-Alouette, gentille alouette, alouette, je te plumerai.
-Je te plumerai la tete. 
-Je te plumerai la tete et la tete.
-O, alouette gentille alouette, alouette, je te plumerai.
-\endverse
-\beginverse
-Alouette, gentille alouette, alouette, je te plumerai.
-Je te plumerai le bec.
-Je te plumerai le bec et le bec et la tete.
-O, alouette, gentille alouette, alouette, je te plumerai.
-\endverse
-\beginverse
-...le ne'z...et le bee...et la tete
-\endverse
-\beginverse
-...le dos...et le nez...etc...
-\endverse
-\beginverse
-...les pattes...et le dos...etc...
-\endverse
-\beginverse
- ...le cou...et les pattes...etc...
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{deswintersalshetregent}
-\end{intersong}
-\beginsong{Des winters als het regent}
-\beginverse
-Des winters als het regent, dan zijn de paadjes diep, ja diep.
-Dan komt dat loze vissertje, vissen al in dat riet, ja riet.
-\endverse
-\beginchorus
-Met zijnen rijfstok, met zijnen strijkstok.
-Met zijnen lapzak, met zijnen knapzak.
-Met zijnen lere, van dirre domme dere.
-Met zijne lere laarsjes aan. 
-\rep{2}
-\endchorus
-\beginverse
-Dat loze molenarinnetje, hing in heur deurtje staan, ja staan.
-Opdat dat aardig vissertje, voorbij haar heen zou gaan, ja gaan.
-\endverse
-\beginverse
-Wat heb ik u misdreven? Wat heb ik u misdaan, ja 'daan.
-Opdat ik niet met vrede, vorbij uw deur mag gaan, ja gaan
-\endverse
-\beginverse
-Gij hebt mij niets misdreven, gij hebt mij niets misdaan, ja 'daan.
-Maar moet mij driemaal zoenen, eer gij van hier moogt gaan, ja gaan.
-\endverse
-\beginchorus
-Met uwen rijfstok, met uwen strijkstok.
-Met uwen lapzak, met uwen knapzak.
-Met uwen lere, van dirre domme dere.
-Met uwe lere laarsjes aan. 
-\rep{2}
-\endchorus
-\endsong
-\beginsong{Als de djungel}
-\beginverse*
-Als de djungel zich hult in het duister, flauw verlicht door het schijnsel der maan.
-Sta dan stil, spits je oren en luister, zwijgend zie je de horde daar staan. 
-\endverse
-\beginchorus
-Jalahi weerklinkt door de rimboe, 't is de kreet van het hoofd van de stam.
-Alle wolven, Bagheera en Baloe, hurken neer bij de laaiende vlam. 
-(En nog ne keer!)
-\endchorus
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{img3}
-\end{intersong}
-\beginsong{Als de rombom}
-\beginverse
-Als de rombom heeft geslagen, en wij marcheren moeten gaan, geweer en ransel die moeten wij dan dragen, en dat staat ons voorwaar niet aan. 
-\endverse
-\beginchorus
-Kapiteins en officieren, drinken wijn en soms een glaasje bier maar wij zijn maar arme fuselieren, drinken water al uit de rivier.
-\endchorus
-\beginverse
-Een stuiver daags is onze gage, en een pondje zwart kommiezenbrood, een watersausje dat geeft ons de courage, en daarmee moeten wij dan maar voort.
-\endverse
-\endsong
-\beginsong{Als in de mei}
-\beginverse
-Als in de mei, de blijde mei,
-de merel fluit in 't woud,
-ja fluit in 't woud,
-dan trekken jonge kerels, 
-van niets benauwd,
-dan trekken jonge kerels, 
-van niets benauwd.
-\endverse
-\beginchorus
-Juvi valle valle valle valle lala
-Juvi valle valle valle valle lala
-Dan trekken jonge kerels, 
-van niets benauwd.
-\endchorus
-\beginverse
-Zij zingen luid hun lustig lied,
-dat 't galme door het woud, 
-ja door het woud.
-Ze stappen 't leven tegen, 
-van niets benauwd,
-ze stappen 't leven tegen, 
-van niets benauwd.
-\endverse
-\beginverse
-Ach fiere jeugd, ach fiere jeugd,
-uw lied klinkt veel te stout, 
-ja veel te stout.
-Ge zult wel anders zingen,
-wordt gij eens oud,
-Ge zult wel anders zingen,
-wordt gij eens oud.
-\endverse
-\beginverse
-Wij zingen nooit een ander lied,
-al klinkt het nog zo stout,
-ja nog zo stout.
-Wij stoere vlaamse kerels, 
-nooit worden w' oud,
-wij stoere vlaamse kerels, 
-nooit worden w' oud.
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{img4}
-\end{intersong}
-\beginsong{Anne mie}
-\beginverse*
-Anne mie, warum hast du mir nicht geschrieben?
-Anne mie, warum hast du mir nicht geschrieben?
-Anne mie, und ich vergess dich nie.
-Ich mag so gern, so gern nach House wiedergehn, und meine Liebste wiedersehen.
-Ich mag so gern, so gern nach House wiedergehn, und meine Liebste wiedersehen.
-\endverse
-\beginverse*
-Infanterie, du bist der schÃ¶nste aller Waffen.
-Infanterie, du bist der schÃ¶nste aller Waffen.
-Infanterie, und ich vergess dich nie...
-\endverse
-\endsong
-\beginsong{Annemarieken}
-\beginverse*
-Wel Annemarieken waar ga je naartoe? \rep{2}
-'k Ga naar den buiten al bij de soldaten hopsasafallala Annemarie. \rep{2}
-\endverse
-\beginverse*
-Wel Annemarieken wat ga je daar doen? \rep{2}
-Haspen en spinnen, soldaatjes beminnen hopsasafallala Annemarie. \rep{2}
-\endverse
-\beginverse*
-Wel Annemarieken heb jij er geen man? \rep{2}
-Heb ik geen man, dan krijg ik geen slagen hopsasafallala Annemarie. \rep{2}
-\endverse
-\beginverse*
-Wel Annemarieken heb jij er geen kind? \rep{2}
-Heb ik geen kind, dan moet ik niet zorgen hopsasafallala Annemarie. \rep{2}
-\endverse
-\endsong
-\beginsong{Au clair de la lune}
-\beginverse*
-Au clair de la lune, mon ami Pierrot. Prete-moi ta plume pour ecrire un mot. Ma chandelle est morte, je n'ai plus de feu, ourvre-moi ta porte pour l'amour de Dieu!
-\endverse
-\beginverse*
-Au clair de la lune,Pierrot repondit: "Je n'ai pas de plume, Je suis dans mon lit. Va chez la voisine, Je crois qu'ell y est, car dans sa cuisine on bat le briquet."
-\endverse
-\beginverse*
-Au clair de la lune, L'aimable Lubin. Frappe chew la brune, Ell' repond soudain: "Qui frappe d'la sorte?" Il dit a son tour: "Ouvrez votre porte pour le dieu d'amour!"
-\endverse
-\beginverse*
-Au clair de la lune, On n'y voit qu'un peu. On chercha la plume, On chercha du feu. En chercant d'la sort, Je n'sais c' qu'on trouva: Mais j'sais que la porte  sur eux se ferma.
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{img5}
-\end{intersong}
-\beginsong{AuprÃ¨s de ma blonde}
-\beginverse
-Dans les jardins d'mon pÃ¨re, les lilas sont fleuris, tous les oiseaux du monde y viennent faire leur nid.
-\endverse
-\beginchorus
-AuprÃ¨s de ma blonde, qu'il fait bon, fait bon, fait bon.
-AuprÃ¨s de ma blonde, qu'il fait bon dormir.
-\endchorus
-\beginverse
-Tous les oiseaux du monde y viennent faire leur nid, la caille, la tourtelle, et la jolie perdrix.
-\endverse
-\beginverse
-La caille, la tourtelle, et la jolie perdrix, et ma jolie colombe, qui chante jour et nuit.
-\endverse
-\beginverse
-Et ma jolie colombe, qui chante jour et nuit, qui chante pour les filles, qui nâ€™ont point de mari.
-\endverse
-\beginverse
-Qui chante pour les filles, qui nâ€™ont point de mari, pour moi ne chante guÃ¨re, car jâ€™en ai un jolie.
-\endverse
-\beginverse
-Pour moi ne chante guÃ¨re, car jâ€™en ai un jolie, dites-nous, donc, la belle, ou donc est votrâ€™mari.
-\endverse
-\beginverse
-Dites-nous, donc, la belle, ou donc est votrâ€™mari, il est dan la Holland, les Hollandais lâ€™ont pris.
-\endverse
-\beginverse
-Il est dan la Hollande, les Hollandais lâ€™ont pris, que donneriez-vous, belle, pour avoir vortâ€™mari
-\endverse
-\beginverse
-Qui donneriez-vous, belle, pour avoir votrâ€™mari, je donnerais Versailles, Paris et Saint-Denis.
-\endverse
-\beginverse
-Je donnerais Versaille, Paris et Saint-Denis, les tours de Notre-Dame et lâ€™clocher de sons pays.
-\endverse
-\beginverse
-Les tours de Notre-Dame et lâ€™clocher de sons pays, et ma joli colombe, pour avoir mon ami.
-\endverse
-\endsong
-\beginsong{Avondlied}
-\beginverse
-O Heer, d'avond is neergekomen. De zonne zonk, het duister klom. De winden doorruisen de bomen. En verre sterren staan alom. Wij knielen neer om U te zingen. In't slapend woud ons avondlied. Wij danken U voor wat we ontvingen. En vragen, Heer, verlaat ons niet.
-\endverse
-\beginchorus
-Scouts en leiders knielen wij neder. Door de stilte weerklinkt onze bee. Luistrend fluistren kruinen mee. En sterren staren teder. Geef ons, Heer, zegen en rust en vree...
-\endchorus
-\beginverse
-Gij hebt dezen dag ons gegeven. En ons bewaard gezond en blij. Uw engel is ons bijgebleven. En heeft gewandeld aan ons zij! We deden goed met uw genaden. We leerden menig wijze raad. Eenieder heeft door woord en daden. Zijn makkers broederlijk gebaat!
-\endverse
-\beginverse
-Al wat wij boos en zwak misdeden. Vergeef het ons, O goede Heer. Uw liefde heeft voor ons geleden. Wees ons barmhartig nog een keer... Wij willen weer U trouw beloven. Ons Woord vernieuwen, Heer, voor U. En zeker van Uw hulp van boven. Laat ons gelukkig slapen nu!
-\endverse
-\beginverse
-Weleer toen uw apostlen sliepen, toen badt G'op enen berg alleen. Waak over ons, die U aanriepen. Drijf duivel, dood en vijand heen... Waak over ons, Gij, Licht en Leven, Gij Waarheid, en 'ge Levensbaan. En morgen wordt U weer gegeven, Elke avond, ieder zonopstaan!
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{img6}
-\end{intersong}
-\beginsong{Begroetingslied}
-\beginverse*
-hallo, hallo, hallo , hallo
-Wij komen u groeten
-Zijn blij u t'ontmoeten
-hallo, hallo, hallo , hallo
-\endverse
-\endsong
-\beginsong{Belgisch Volkslied}
-\beginverse*
-O dierbaar Belgie, O heilig land der vad'ren, Onze ziel en ons hart zij U gewijd.
-Aanvaard ons kracht en het bloed van ons ad'ren. Wees ons doel in arbeid en in strijd.
-Bloei o land, in eendracht niet te breken. Wees immer uzelf, en ongeknecht.
-Het woord getrouw dat ge onbevreesd moogt spreken: Voor vorst, voor vrijheid en voor recht.
-Voor vorst, voor vrijheid en voor recht.\rep{2}
-
-\endverse
-\endsong
-\beginsong{Beloftelied}
-\beginverse
-Wij hebben u, o Jezus
-Plechtig beloofd
-U altijd te erkennen
-Als opperhoofd.
-\endverse
-\beginchorus
-Geef dat w'u minnen zouden
-Steeds meer en meer,
-Help ons belofte houden
-Jezus onze Heer.
-\endchorus
-\beginverse
-Wij hebben het gezworen
-Dat Gij steeds zoudt
-Ons hoofd en leider wezen
-Als opperscout.
-\endverse
-\beginverse
-Geef dat w'u minnen zouden
-Steeds meer en meer,
-Help ons belofte houden
-Jezus onze Heer.
-\endverse
-\beginverse
-Wij zullen gans ons leven
-Lijk Gij 't geboodt
-U volgen en U dienen
-Tot aan ons dood.
-\endverse
-\beginverse
-Geef dat w'u minnen zouden
-Steeds meer en meer,
-Help ons belofte houden
-Jezus onze Heer.
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{bergvagebunden}
-\end{intersong}
-\beginsong{Bergvagebunden}
-\beginverse
-Wenn wir erklimmen schwindelnde HÃ¶hen,
-Steigen dem Gipfelkreuz zu;
-In unsern Herzen brennt eine Seesicht,
-Die lÃ¤sst uns nimmer mehr in ruh. 
-\endverse
-\beginchorus
-Herrliche Berge, Sonnige HÃ¶hen,
-Bergvagebunden sind wir, ja wir,
-Herrliche Berge, Sonnige HÃ¶hen,
-Bergvagebunden sind wir.
-\endchorus
-\beginverse
-Mit Seil und Haken, den Tod im Nacken,
-HÃ¤ngen wir an der steilen Wand. 
-Herzen erglÃ¼hen, EdelweiÃŸ blÃ¼hen,
-Vorbei gehtâ€™s mit sicheren Hand.
-\endverse
-\beginverse
-La Montanara und Puchiana,
-Berge sind Ã¼berall schÃ¶n.
-Gletscher und Sonne, Herzen voll Wonne,
-Herllich die Berge zu sehn.
-\endverse
-\beginverse
-Beim AlpenglÃ¼hen heimwÃ¤rts wir ziehen,
-Berge, die leuchten so rot. 
-Wir kommen wieder, denn wir sind BrÃ¼der,
-BrÃ¼der auf Leben und Tod.
-\endverse
-\beginchorus
-Lebwohl ihr Berge,
-Sonnige HÃ¶hen,
-Bergvagebunden sind treu, ja treu,
-Lebwohl ihr Berge, Sonnige HÃ¶hen,
-Bergvagebunden sind treu. 
-\endchorus
-\endsong
-\beginsong{Bert Rodenbach}
-\beginverse*
-Bert Rodenbach die heeft een vogel in zijn hand. 
-Bert Rodenbach die heeft een vogel in zijn hand.
-Bert Rodenbach die heeft een vogel in zijn hand, een vogel in zijn hand. Tararaâ€¦
-\endverse
-\beginverse
-Bert Rodenbach die heeft een vogel in zijn â€¦
-\endverse
-\beginverse
-Bert Rodenbach die heeft een vogel in â€¦
-\endverse
-\beginverse
-Bert Rodenbach die heeft een vogel â€¦
-\endverse
-\beginverse
-Bert Rodenbach die heeft een â€¦
-\endverse
-\beginverse
-Bert Rodenbach die heeft ...
-\endverse
-\beginverse
-Bert Rodenbach die â€¦
-\endverse
-\beginverse
-Bert Rodenbach â€¦
-\endverse
-\beginverse
-Bert ...
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{bertrodenbach}
-\end{intersong}
-\beginsong{Bier her, Bier her}
-\beginverse*
-Bier her, Ber her, 
-oder ich fallâ€™um jochhe,
-Bier her, Bier her,
-oder ich fallâ€™um.
-Soll das BIer im Keller liegen,
-und ich hier die ohnmacht kriegen,
-Bier her, Bier her,
-oder ich fallâ€™um.
-\endverse
-\beginverse*
-Bier her, Bier her,
-oder ich fallâ€™um jochhe,
-Bier her, Bier her,
-oder ich fallâ€™um.
-Wenn nicht gleich Bier bekummâ€™
-schmeiszâ€™ich ganze Kneipe um.
-Bier her , Bier her,
-oder ich fallâ€™um.
-\endverse
-\endsong
-\beginsong{Blowing in the wind}
-\beginverse
-How many roads must a man walk down
-Before they call him a man?
-How many seas must a white dove sail
-Before she sleeps in the sand?
-How many times must the cannonballs fly
-Before they're for ever band?
-\endverse
-\beginchorus
-The answer my friend,
-Is blowin' in the wind,
-The answer is blowin' in the wind.
-\endchorus
-\beginverse
-How many times must a man look up
-Before he can see the sky?
-How many ears must one have
-Before he can heare people cry?
-How many deaths will it take till he know
-That to many people had died?
-\endverse
-\beginverse
-How many years can a mountain exist
-Before he washed to the sea?
-How many years can some people exist
-Before they're allowed to be free?
-How many times can a man turn his head
-And pretend that he just doesn't see?
-\endverse
-\endsong
-\beginsong{Brede velden}
-\beginverse*
-Brede velden, verre heiden,
-waar ons hart zicht aan verpandt.
-In uw stille, trouwe aarde,
-staat zo menig kruis geplant.
-In uw stille, trouwe aarde,
-staat zo menig kruis geplant.
-\endverse
-\beginverse*
-Oude fierheid, lang vergeten,
-hoe lang nog blijft gij geknecht?
-In ons harten, kameraden,
-brandt 't vuur dat land weer recht.
-In ons harten, kameraden,
-brandt 't vuur dat land weer recht.
-\endverse
-\endsong
-\beginsong{Chevaliers de la table ronde}
-\beginverse
-Chevaliers de la table ronde,
-allons voir si le vin est bon
-\endverse
-\beginchorus
-Allons voir, oui, oui, oui,
-allons voir, non , non, non,
-allons voir, si le vin est bon.
-\endchorus
-\beginverse
-Jâ€™en boira cinq Ã  six bouteilles,
-une femme sur mes genoux.
-Mais voilÃ  quâ€™on frappe Ã  la porte
-je crois bien que câ€™est le mari.
-\endverse
-\beginverse
-Si je meurs, je veux quâ€™on mâ€™enterre,
-dans une cave oÃ¹ il y a du bon vin.
-Les deux pieds contre la muraille,
-et la tÃªte sous le robinet.
-\endverse
-\beginverse
-Sur ma tombe je veux quâ€™on inscrive:
-ici gÃ®t le roi des buveurs.
-La morale de cette histoire,
-câ€™est de boire avant de mourir.
-\endverse
-\beginverse
-La morale de cette morale
-câ€™est que les hommes sont des couchons
-La morale de cette morale
-câ€™est que les femmes aiment les couchons.
-\endverse
-\endsong
-\beginsong{Clementine}
-\beginverse
-In a cavern, in a canyon,
-excavating for a mine,
-dwelt a miner, fortyniner, 
-and his daughter, Clementine.
-\endverse
-\beginchorus
-Oh my darling, oh my darling,
-oh my darling, Clementine.
-You are lost and gone forever,
-dreadful sorry, Clementine.
-\endchorus
-\beginverse
-Light she was, and like a fairy,
-and her shoes were number nine,
-Herring boxes, without topses,
-sandals were for Clementine.
-\endverse
-\beginverse
-Drove she ducklings to the water,
-evâ€™ry morning, just at nine
-hit her foot against a splinter,
-fel into the foaming brine.
-\endverse
-\beginverse
-Ruby lips above the water,
-blowing bubbles, soft and fine,
-but alas, I was no swimmer, 
-so I lost my clementine.
-\endverse
-\beginverse
-When the miner forty-niner,
-Soon began to peak and pine,
-Thought he oughter "jine" his daughter,
-Now he's with his clementine.
-\endverse
-\beginverse
-In a corner of the churchyard,
-Where the myrtle boughs entwine,
-Grow the roses in their poses,
-Fertilized by Clementine.
-\endverse
-\beginverse
-In my dreams she still doth haunt me
-robed in garments, soaked in brine,
-though in life I used to hug her, 
-now sheâ€™s dead I draw the line.
-\endverse
-\beginverse
-How I missed her, how I missed her
-How I missed my Clementine.
-So I kissed her little sister,
-And forgot my Clementine.
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{cocklesandmussels}
-\end{intersong}
-\beginsong{Cockles and Mussels}
-\beginverse
-In Dublin's fair city, Where the girls are so pretty,
-I first set my eyes on sweet Molly Malone,
-As she wheeled her wheel-barrow,
-Through streets broad and narrow,
-\endverse
-\beginchorus
-Crying, "Cockles and mussels, alive, alive, oh!"
-"Alive, alive, oh, Alive, alive, oh,"
-Crying,  "Cockles and mussels, alive, alive, oh".
-\endchorus
-\beginverse
-She was a fishmonger, But sure 'twas no wonder,
-For so were her father and mother before,
-And they wheeled their barrows,
-Through the streets broad and narrow,
-\endverse
-\beginverse
-She died of a fever, And no one could save her,
-And that was the end of sweet Molly Malone.
-But her ghost wheels her barrow,
-Through streets broad and narrow,
-\endverse
-\endsong
-\beginsong{Daar is de lente}
-\beginverse*
-Daar is de lente, daar is de zon,
-Bijna maar ik denk dat ze weldra zal komen.
-De fallus impudicus staat al in bloei,
-En de blaadjes krijgen bomen. 
-\endverse
-\beginverse*
-Mijn vrouw en mijn kat zijn allebei krols,
-Het valt me moeilijk ze rustig te houden.
-Ik zal binnenkort weer een heleboel
-Nesten moeten bouwen. 
-\endverse
-\beginverse*
-Want daar is de lente, daar is de zon,
-Bijna maar ik denk dat ze weldra zal komen.
-De fallus impudicus staat al in bloei,
-En de blaadjes krijgen bomen.
-\endverse
-\beginverse*
-De bloemknoppen barsten open met een 
-Knal en de meisjes ontbloten de kuiten.
-De bouwvakkers hebben na nâ€™nare tijd
-Weer iets om naar te fluiten. 
-\endverse
-\beginverse*
-Daar is de lente, daar is de zon,
-Bijna maar ik denk dat ze weldra zal komen,
-De fallus impudicus staat al in bloei
-En de klokken vertrekken naar Rome. 
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{daarwaseenwufdiespon}
-\end{intersong}
-\beginsong{Daar was een wuf die spon}
-\beginverse
-Daar was een wuf die spon,
-Daar was een wuf die spon,
-Al op een houten spinnewiel,
-Daar was geen toortelten aan.
-Vive la peperbusse, viva la spa, trala la la
-Gize gaze gouze, ron flon flouze, traderadera!
-\endverse
-\beginverse
-Haar mutse stoeg verdraaid,
-Haar mutse stoeg verdraaid,
-Gelijke een Hollands moleken,
-Die met al windeken draait.
-Vive la peperbusse, viva la spa, trala la la
-Gize gaze gouze, ron flon flouze, traderadera!
-\endverse
-\beginverse
-Dat wuf had enen zin,
-Dat wuf had enen zin,
-Als zij 's morgen buiten kroop,
-'s Avonds dan kroop zij er in. 
-Vive la peperbusse, viva la spa, trala la la
-Gize gaze gouze, ron flon flouze, traderadera!
-\endverse
-\beginverse
-3.	Dat wuf had enen man,
-Dat wuf had enen man,
-'s Zondags heet hij Pieter,
-'s Maandags heet hij Jan. 
-Vive la peperbusse, viva la spa, trala la la
-Gize gaze gouze, ron flon flouze, traderadera!
-\endverse
-\endsong
-\beginsong{Daar was laatst een meisje loos}
-\beginverse
-Daar was laatst een meisje loos, 
-Die wou gaan varen,
-Die wou gaan varen,
-Daar was laatst een meisje loos,
-Die wou gaan varen als lichtmatroos.
-\endverse
-\beginverse
-Zij moest klimmen in de mast,
-Maken de zeilen,
-Maken de zeilen,
-Zij moest klimmen in de mast,
-Maken de zeilen met touwtjes vast.
-\endverse
-\beginverse
-Maar door storm en tegenweer,
-Sloegen de zeilen,
-Sloegen de zeilen,
-Maar door storm en tegenweer,
-Sloegen de zeilen van boven neer. 
-\endverse
-\beginverse
-â€œOch, kapiteintje, sla me niet,
-Ik ben uw liefje,
-Ik ben uw liefje,
-Och, kapiteintje, sla me niet,
-Ik ben uw liefje zoals gij ziet.â€
-\endverse
-\beginverse
-Zij moest komen in de kajuit,
-Kreeg een pak ransel,
-Kreeg een pak ransel,
-Zij moest komen in de kajuit,
-Kreeg een pak ransel en toen was 't uit. 
-\endverse
-\endsong
-\beginsong{ Daar zat een sneeuwwit vogeltje}
-\beginverse*
-Daar zat een sneeuwwit vogeltje (bis)
-Al op een stelceldorentje, din don deine!
-Al op een stelceldorentje, din don don.
-\endverse
-\beginverse*
-" Wilt gij niet mijnen bode zijn? " (bis)
-" Ik ben te klein een vogelkijn, din don deine â€ 
-" Ik ben te klein een vogelkijn, din don don. "
-\endverse
-\beginverse*
-" Zijt gij maar kleine, gij zijt snel; (bis)
-â€œGij weet den weg? " " Ik weet hem wel, din don deine!â€
-â€œ Gij weet den weg? " " ik weet hem wel, din don don. â€
-\endverse
-\beginverse*
-Hij nam den brief in zijnen bek (bis)
-En vloog er mee tot over 't hek, din don deine.
-En vloog er mee tot over 't hek, din don don.
-\endverse
-\beginverse*
-Hij vloog tot aan mijn zoet liefs deux: (bis)
-" En slaapje of waakje, of zijt ge dood, din don deine? Â»
-" En slaapje of waakje, of zijt ge dood, din don don."
-\endverse
-\beginverse*
-" 'k En slape noch 'k en wake niet " (bis)
-" Ik ben getxouwd al een half jaar, din don deine."
-" Ik ben getrouwd al een half jaar, din don don. "
-\endverse
-\beginverse*
-" Zijt gij getrouwd ai een half jaar? " (bis)
-" Het dochte mij wel duizend jaar, din don deine. "
-" Het dochte mij wel duizend jaar, din don don. "
-\endverse
-\endsong
-\beginsong{Dank U}
-\beginverse*
-Dank U, voor deze nieuwe zorgen
-Dank U, voor deze nieuwe dag
-Dank U dat ik met al mijn zorgen
-Bij U komen mag. 
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{deboerhadmaarenenschoen}
-\end{intersong}
-\beginsong{De boer had maar enen schoen}
-\beginverse
-De boer had maar enen schoen,
-Weinig genoeg, genoeg, genoeg!
-De boer had maar enen schoen,
-Weinig genoeg! 
-Een schoen zonder hak er an,
-De boer is geen edelman,
-Een schoen zonder hak er an,
-De boer is geen edelman,
-\endverse
-\beginverse
-De boer had maar enen broek: â€¦
-Een broek zonder zak erin, â€¦
-\endverse
-\beginverse
-De boer had maar enen jas: â€¦
-Een jas zonder knoop er an, â€¦
-\endverse
-\beginverse
-De boer had maar enen kous: â€¦
-Een kous met een gat er in, â€¦
-\endverse
-\beginverse
-De boer had maar enen hemd: â€¦
-Een hemd zonder slip er an, â€¦
-\endverse
-\beginverse
-De boer had maar enen pet: â€¦
-Een pet zonder klep er an, â€¦
-\endverse
-\beginverse
-De boer had maar enen vrouw,
-Meer dan genoeg, genoeg, genoeg! 
-De boer had maar enen vrouw,
-Meer dan genoeg!
-Een vrouw met een kop er op: 
-De boer had een reuzestrop;
-Een vrouw met een kop er op:
-De boer die had een reuzestrop. 
-\endverse
-\endsong
-\beginsong{De boom stond op de bergen}
-\beginchorus
-En de boom stond op de bergen hali-halo \rep{2}
-En aan die boom daar kwam een tak,
-Een reuzetak, een pracht van een tak;
-Ach jongens wat een tak was dat.
-De tak van de boom
-En de boom stond op de bergen hali-halo \rep{2}
-\endchorus
-\beginverse
-En aan die tak daar kwam een blad.
-\endverse
-\beginverse
-En aan dat blad daar kwam een nest. 
-\endverse
-\beginverse
-En in dat nest daar kwam een ei.
-\endverse
-\beginverse
-En uit dat ei daar kwam een jong. 
-\endverse
-\beginverse
-En aan dat jong daar kwam een veer. 
-\endverse
-\beginverse
-En aan die veer daar kwam een hoed. 
-\endverse
-\beginverse
-En aan die hoed daar kwam een juf. 
-\endverse
-\beginverse
-En aan die juf daar kwam een heer. 
-\endverse
-\beginverse
-En aan die heer daar kwam een huis.
-\endverse
-\beginverse
-En aan dat huis daar kwam een stal.
-\endverse
-\beginverse
-En in die stal daar kwam een geit.
-\endverse
-\beginverse
-En aan die geit daar kwam een staart. 
-\endverse
-\beginverse
-En aan die staart daar kwam een eind. 
-\endverse
-\endsong
-\beginsong{De gilde viert}
-\beginverse
-De gilde viert, de gilde juicht,
-wat zijt gij daar en blokt en buigt
-nog over uwe boeken?
-de wijsheid ligt maar in de kan,
-die ze elders zoeken wil, die kan,
-doch laat hem, laat hem zoeken.
-\endverse
-\beginchorus
-Het beste biertjes lust hij niet,
-het liefste liedje sust hem niet,
-het mooiste meisje kust hij niet,
-hoog het glas, hoog het hart, hoog het bier.
-\endchorus
-\beginverse
-De beker ruist, de beker schuimt,
-sa makkers fris en opgeruimd,
-het glas aan uwe lippen,
-die op zijn kamer koekeloert,
-en gestversnipâ€™rend dwaasheÃ«n snoert,
-drinkt water als de kippen.
-\endverse
-\beginverse
-Het pijpke dampt in nonkelmond,
-en spreidt wellustig in het rond,
-studentikoze geuren.
-Die steeds aan perkamenten kluift,
-en perkamenten reuken snuift,
-krijgt perkamentenkleuren.
-\endverse
-\beginverse
-De gilde juicht, de gilde viert,
-hoera, de pet omhoog gezwierd,
-en nog eens hard geklonken.
-De blokker ligt reeds log en loom,
-gekweld door nare blokkersdroom,
-met droge keel te ronken.
-\endverse
-\endsong
-\beginsong{De Jef van de Capucienen}
-\beginverse
-En de Jef van de Capucienen \rep{2}
-En de Capucienen Jef		
-Larie tsjoemlalalalalaliereâ€¦ \rep{2}
-\endverse
-\beginverse*
-Jef = pssst
-Jef = hum
-Jef = fwiet (fluiten)
-Jef = klop (op tafel)
-Jef = knip (met vingers)
-Jef = oogje trekken
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{dekikker}
-\end{intersong}
-\beginsong{De Kikker}
-\beginverse
-Aan den oever van de Dijle,
-Diep verscholen in het riet,
-Zat een kleine jonge kikker
-Bij zijn moeder op de knie!
-\endverse
-\beginverse
-"Ziet ge daar" zo sprak die moeder,
-"Ziet ge daar dien ooievaar,
-'t Is de moord'naar van uw vader,
-Hij vrat hem op met huid en haar".
-\endverse
-\beginverse
-"Godverdomme", sprak die kleine,
-"Heeft die smeerlap dat gedaan,
-Als ik groot en sterk zal wezen
-Zal op op zijn bakkes slaan"!
-\endverse
-\beginverse
-Vele jaren zijn verstreken,
-En de kikker leeft niet meer.
-Maar de ooievaar die leeft nog,
-En zijn bakkes doet nog zeer.
-\endverse
-\beginverse
-'kHeb zoveel u nog te zeggen
-Haar ge zoudt het niet verstaan
-'k Zal u in uw bedje leggen..."
-En daarmee is 't lied gedaan.
-\endverse
-\endsong
-\beginsong{De Kikkertjes}
-\beginverse
-De kikkertjes, de kikkertjes
-zijn aardig om te zien          
-ooh, kwak-kwak-kwakâ€¦ \rep{2}
-\endverse
-\beginchorus
-In 't hoge gras, in 't lage gras
-daar springen zijn in 't rond  
-ooh, kwak-kwak-kwakâ€¦ \rep{2}
-\endchorus
-\beginverse
-En moederpuit, en vader puit
-die gingen samen uit              
-ooh, kwak-kwak-kwakâ€¦ \rep{2}
-\endverse
-\beginverse
-Scheu weer geweest, scheu weer geweest,
-et ee vandoog scheu weer geweest \rep{2}
-\endverse
-\beginverse
-et ee vandoog, scheu weer geweest 
-\endverse
-\beginverse
-Scheu weer geweest, scheu weer geweest,
-Et ee vandoog scheu weer geweest. 
-\endverse    
-\endsong   
-\beginsong{De maanden}
-\beginverse*
-En al wie in de maand â€¦ geboren is, sta op!
-En al wie in de maand â€¦ geboren is, sta op!
-\endverse
-\beginchorus
- (Als er niemand recht staat)
-'t Is mis, 't is mis, 't is mis.
-'t Is mis, 't is mis, 't is mis.
-\endchorus
-\beginchorus
-Zet het glaasje aan je lippen,
-laat het zachtjes binnenglippen.
-Zet het glaasje aan je mond,
-en drink het leeg.\rep{12}
-\endchorus
-\beginverse*
-En al wie niet geboren is, sta op!
-En al wie niet geboren is, sta op!
-\endverse
-\beginverse*
-(Als er wel iemand recht staat)
-Zet het glaasje aan je lippen,
-laat het zachtjes binnenglippen.
-Zet het glaasje aan je mond,
-en drink het leeg.
-\endverse
-\endsong
-\beginsong{De poes van tante Loes}
-\beginverse*
-Er is een 1,2 ,3 , 4 ,5 , 6 ,7-ling geboren, bij de
-poes van tante Loes;
-Er is een 1,2 , 3 , 4,5, 6, 7-ling geboren, bij de
-poes van tante Loes.
-Het eerste was een jongen, het tweede was een meisje,
-het derde kon niet komen want het vierde was niet thuis,
-het vijfde was te mager, het zesde was te dik,
-en het zevenste had de poten van het achtste ingeslikt. 
-Ouwe taaie...
-\endverse
-\endsong
-\begin{intersong}
-    \includegraphics[width=0.4\textwidth]{destratenzijdreunen}
-\end{intersong}
-\beginsong{De straten zij dreunen}
-\beginverse*
-De straten zij dreunen bij 't schrijden,
-Zo koel waait de morgenwind,
-Vooraan steeds het vaandel dat wappert,
-Vooraan waar het doel zich bevindt.
-\endverse
-\beginchorus
-En schijnt ook daarboven, De hemel zo grauw;
-Boven de wolken, Blijft 't eeuwig blauw.
-\endchorus
-\beginverse*
-Wij willen de laagheid verderven,
-Wij dromen van trouw en van eer,
-De wereld zij mag ons onterven,
-Ons stappen zij keren niet weer.
-\endverse
-\beginverse*
-Wij zullen geen roem ons verwerven,
-Maar hoog boven laster en haat,
-Staat stralend geplant op de scherven,
-Het vaandel dat nimmer vergaat.
-\endverse
-\endsong
-\beginsong{De vier weverkes}
-\beginverse*
-Vier weverkens zag men ter botermarkt gaan, en de boter die was er zo diere.
-Zij hadden geen duit haast meer in hunne tas, en ze kochten 1 pond sa vieren.
-\endverse
-\beginverse*
-Schietspoele, sjerrebekke spoelza! Djikke djakke kerrekoltjes klitsklet
-En ze kochten 1 pond sa vieren.
-\endverse
-\beginverse*
-En als zij dat boterken hadden gekocht, zij hadden er vier platelen.
-Zij spraken dat vrouwken zo vriendelijk aan: sa vrouwke en wilt het ons dele
-\endverse
-\beginverse*
-Dat vrouwken dat sprak: Ja dat zal ik wel doen,
-ja zo wel als een vrouwken vol eren
-want ik wete wel wat er de weverkens zijn: en de weverkens zijn er geen her;
-Wat zouden de weverkens heren zijn, zij en hebben er huize noch erven!
-En kruipt er een muisken in hunne schapraai, van honger zo moet het er strerven
-\endverse
-\beginverse*
-En als dan dat muisken gestorven zal zijn, waar zullen zij het begraven?
-Al onder de weverkens hunne getouw en het grafken zal rooskens dragen.
-\endverse
-\endsong
-\beginsong{De Vlaamse Leeuw}
-\beginverse*
-Zij zullen hem niet temmen, 
-de fiere Vlaamse Leeuw,
-Al dreigen zij zijn vrijheid,
-met kluisters en geschreeuw.
-Zij zullen hem niet temmen
-\endverse
-\beginverse*
-zolang een Vlaming leeft,
-Zolang de Leeuw kan klauwen, 
-zolang hij tanden heeft.
-Zij zullen hem niet temmen,
-zolang een Vlaming leeft,
-Zolang de Leeuw kan klauwen, 
-zolang hij tanden heeft.
-Zolang de Leeuw kan klauwen,
-zolang hij tanden heeft.
-\endverse
-\beginverse*
-De tijd verslindt de steden, 
-geen tronen blijven staan:
-De legerbenden sneven, 
-een volk zal nooit vergaan.
-De vijand trekt te velde, 
-omringd van doodsgevaar.
-Wij lachen met zijn woede, 
-de Vlaamse Leeuw is daar
-\endverse
-\beginverse*
-Zij zullen hem niet temmen,
-zolang een Vlaming leeft,
-Zolang de Leeuw kan klauwen, 
-zolang hij tanden heeft.
-Zolang de Leeuw kan klauwen, 
-zolang hij tanden heeft.
-\endverse
-\beginverse*
-Hij strijdt nu duizend jaren,
-voor Vlaandrens dierbaar lot,
-en nog zijn zijn krachten,
-in al haar jeugdgenot.
-Als zij hem machtloos denken,
-en tergen met een schop,
-dan richt Hij zich bedreigend
-en vreselijk voor hen op.
-\endverse
-\endsong
 \beginsong{Den tandem}
 \beginverse*
 'k Hem ver ma liefken nen tandem gekocht,
@@ -1222,7 +8,7 @@ Weg van de fabrieken, en recht in 't boerengat.
 \beginverse*
 Eens daar aangekomen, op de groene wei,
 De bloemekes die bloeien, de boerkes die zijn blij.
-Dan fluistert zâ€™in mijn oor: kom eens dichterbij,
+Dan fluistert z’in mijn oor: kom eens dichterbij,
 Geef me ne kus, geeft er mij twee, geeft er mij drei. 
 \endverse
 \beginverse*
@@ -1268,7 +54,7 @@ Bei Bier und bei Wein,
 Lustige Pappenheimer wollen wir sein. 
 \endverse
 \beginchorus
-â€œEinen Halben in der Weltâ€ wordt bij het herhalen van het lied vervangen door wat volgt (naar keuze kan men nog aanvullen)
+“Einen Halben in der Welt” wordt bij het herhalen van het lied vervangen door wat volgt (naar keuze kan men nog aanvullen)
 \endchorus
 \beginverse*
 Einen Halben auf dem Stuhl.
@@ -1282,7 +68,7 @@ Einen Halben unterm Tich...
 \beginsong{Die kat kom weer}
 \beginverse
 Die boer die zwoer hem blau: hij zou die kat doodskiet,
-hij heeft die roer gelaÃ¤n met kruid en dynamiet;
+hij heeft die roer gelaän met kruid en dynamiet;
 Hij lei hem op de weg waardoor die kat moes kom;
 Haren en velletjes en beentjes.
 \endverse
@@ -1294,12 +80,12 @@ die volgende dag is die kat weer daar.
 \endchorus
 \beginverse
 Hij zet hem op een skip, die zeilde naar Japan,
-die skip was gelaÃ¤n met twalefhonderd man.
+die skip was gelaän met twalefhonderd man.
 Maar verre van die land, daar is die skip gestrand;
 En alle passagiers verdronken.
 \endverse
 \beginverse
-Die boer die zat die kat in een aÃ«roplaan,
+Die boer die zat die kat in een aëroplaan,
 die botste eventjes tegen een wolkie aan.
 Die boel die viel omlaag, bleef teken in een haag!
 Alleman brak nek en benen.
@@ -1312,21 +98,21 @@ stukken glas en hout en ijzer!
 \endverse
 \beginverse
 Toen kap die boer die kat in duizend stuk kif kaf, 
-en steek dan ieder stuk apaartjes inâ€™n graf.
+en steek dan ieder stuk apaartjes in’n graf.
 Hij stamp die boel goed aan en dank: het is gedaan.
 Maar als hij sliep dan droomde hij altijd. 
 \endverse
 \endsong
 \beginsong{Die Lore}
 \beginverse
-Im Wald, im grÃ¼nen Walde,
-Da steht ein FÃ¶rsterhaus.
-Im Wald, im grÃ¼nen Walde,
-Da steht ein FÃ¶rsterhaus.
+Im Wald, im grünen Walde,
+Da steht ein Försterhaus.
+Im Wald, im grünen Walde,
+Da steht ein Försterhaus.
 Da schauet jeden Morgen
 So frisch und frei von Sorgen
-Des FÃ¶rsters TÃ¶chterlein hinaus,
-Des FÃ¶rsters TÃ¶chterlein hinaus.
+Des Försters Töchterlein hinaus,
+Des Försters Töchterlein hinaus.
 \endverse
 \beginchorus
 Tiralala tiralala
@@ -1336,22 +122,22 @@ Tiralala tiralala
 Tiralala tiralala
 Tira tiralalalala.
 Lore, Lore, Lore, Lore
-SchÃ¶n sind die MÃ¤del von siebzehn, achtzehn Jahr.
+Schön sind die Mädel von siebzehn, achtzehn Jahr.
 Lore, Lore, Lore, Lore
-SchÃ¶ne MÃ¤del gibt es Ã¼beral.
-Und kommt der FrÃ¼ling in das Tal
-GrÃ¼sst mir die Lore noch einmal
+Schöne Mädel gibt es überal.
+Und kommt der Früling in das Tal
+Grüsst mir die Lore noch einmal
 Adee, adee adee
-Und kommt der FrÃ¼ling in das Tal
-GrÃ¼sst mir die Lore noch einmal
+Und kommt der Früling in das Tal
+Grüsst mir die Lore noch einmal
 Adee, adee adee.
 \endchorus
 \beginverse
-Der FÃ¶rster und die Tochter
+Der Förster und die Tochter
 Die schossen beide gut,
-Der FÃ¶rster und die Tochter
+Der Förster und die Tochter
 Die schossen beide gut :
-Der FÃ¶rster schoss ein Hirchelein
+Der Förster schoss ein Hirchelein
 Die Tochter traf ein Burchelein
 Tief in das junge Herz hinein,
 Tief in das junge Herz hinein.
@@ -1361,19 +147,19 @@ Tief in das junge Herz hinein.
 \beginverse*
 Ich weiss nicht was soll es bedeuten
 Dass ich so traurig bin,
-Ein MÃ¤rchen aus uralten Zeiten,
+Ein Märchen aus uralten Zeiten,
 Das kommt mir nicht aus dem Sinn.
-Die Luft ist kÃ¼hl und es dunkelt
+Die Luft ist kühl und es dunkelt
 und ruhig fliesst der Rhein.
 Der Gipfel des Berges funkelt,
 Im Abendsonneschein.
 \endverse
 \beginverse*
-Die schÃ¶nste Junfrau sitzet,
+Die schönste Junfrau sitzet,
 Dort oben wunderbar,
 Ihr goldnes Geschmeide blitzet,
-Sie kÃ¤mmt ihr goldnes Haar,
-Sie kÃ¤mmt es mit goldenem Kamme
+Sie kämmt ihr goldnes Haar,
+Sie kämmt es mit goldenem Kamme
 Und singt ein Lied dabei.
 das hat eine wundersame,
 Gewaltige Melodie. 
@@ -1382,7 +168,7 @@ Gewaltige Melodie.
 Den Schiffer im kleinen Schiffe,
 Ergreift es mit wilden Weh.
 Er schaut nicht die Felsenriffe.
-Er schaut nur hinauf in die hÃ¶h.
+Er schaut nur hinauf in die höh.
 Ich glaube die Wellen verschlingen,
 Am ende Schiffer und Kahn, 
 Und das hat mit ihrem singen,
@@ -1396,7 +182,7 @@ Die Lorelei getan.
 \beginverse
 Ik weet een heerlijk plekje grond, alwaar een molen staat,
 waar ik mijn allerliefste vond, waarvoor mijn harte slaat.
-Ik zag haar voor de eerste keer aan dâ€™oever van de vliet, 
+Ik zag haar voor de eerste keer aan d’oever van de vliet, 
 en sinds die tijd kom ik daar weer, die plek vergeet ik niet.
 \endverse
 \beginchorus
@@ -1409,11 +195,11 @@ daar wil ik wonen als jij een wordt mijn vrouw.
 Als in de stille avondstond de zon ten onder ging,
 en ik haar bij die molen vond in zoete mijmering,
 fluisterde zij me in het oor hoe heerlijk saam te zijn.
-De molen draaide lustig door en 'k zie â€œmijn liefste mijnâ€.
+De molen draaide lustig door en 'k zie “mijn liefste mijn”.
 \endverse
 \beginverse
 Ik zie de molen al versierd ter eer van 't jonge paar,
-en heel het dorp dat juicht en viert â€œzij leven menig jaarâ€.
+en heel het dorp dat juicht en viert “zij leven menig jaar”.
 En zie ik trots de molen staan, dan zweer ik in die stond,
 nooit ga ik van die plek vandaan, waar ik mijn vrouwtje vond.
 \endverse
@@ -1425,7 +211,7 @@ in vaste geslotene rij,
 daar trekken die oude gezichten,
 nog eenmaal mijn ogen voorbij.
 Ik heb u eenmaal als makker zien strijden,
-'t vuur in dâ€™ogen en stralend blijgemoed.
+'t vuur in d’ogen en stralend blijgemoed.
 Vastbesloten om dapper te strijden,
 ach wie weet wat het leven soms doet.
 Maar eenmaal vind ik bij 't kruisen der wegen,
@@ -1523,23 +309,23 @@ Met al zijn makkers mee:
 \beginchorus
 En onze leuze klinkt wees vaardig
 Want het leven is een strijd
-Maar wij vinden â€™t leven aardig 
+Maar wij vinden ’t leven aardig 
 Evenwel zijn wij bereid
 \endchorus
 \beginverse
 De natuur is onze woning,
 Daar gaan wij hand in hand
 Ten strijde met de koning,
-Voor God en â€™t Vlaamse land
+Voor God en ’t Vlaamse land
 \endverse
 \beginverse
 De scoutswet toont de wegen
 Die wij in moeten slaan
-Onzâ€™ naasten gaan we tegen
-Die wâ€™hielpen langs de baan
+Onz’ naasten gaan we tegen
+Die w’hielpen langs de baan
 \endverse
 \beginverse
-Wij oefâ€™nen onze krachten,
+Wij oef’nen onze krachten,
 Dat maakt ons lichaam sterk
 En rein zijn ons gedachten
 En ook ons woord en werk.
@@ -1548,21 +334,21 @@ En ook ons woord en werk.
 \beginsong{Ein Prosit}
 \beginverse*
 Ein Prosit, ein Prosit,
-Der GemÃ¼tlichhahahahaheit,
+Der Gemütlichhahahahaheit,
 Ein Prosit, ein Prosit,
-Der GemÃ¼tlichkeit
+Der Gemütlichkeit
 \endverse
 \beginverse*
 En as men e pilsken meegen drinken,
 dammen doarom ne zatlap zaunj,
 as men e masken meegen kissen,
-dammen doarom ne smieÃ«rlap zaunj.
+dammen doarom ne smieërlap zaunj.
 \endverse
 \beginchorus
 Ein Prosit, ein Prosit,
-Der GemÃ¼tlichhahahahaheit,
+Der Gemütlichhahahahaheit,
 Ein Prosit, ein Prosit,
-Der GemÃ¼tlichkeit
+Der Gemütlichkeit
 \endchorus
 \beginverse*
 Ein, zwei, trei, zaufen!
@@ -1583,11 +369,11 @@ dat alles wijkt voor een student van Gent.
 \endverse
 \beginverse*
 En ejje gau meebelen,
-tein ejje gau ooÃ«sjgerief,
+tein ejje gau ooësjgerief,
 tein kendje gau trauven me au lief,
-gau liÃ«reken zot!
+gau liëreken zot!
 En ejja gau meebelen,
-tein ejje gau ooÃ«sjgerief,
+tein ejje gau ooësjgerief,
 teind kendje gau trauven me au lief.
 \endverse
 \beginverse*
@@ -1605,16 +391,16 @@ ik em au toch zeu lief.
 \endverse
 \beginverse*
 En ik zou na toch zeu geiren,
-zooÃ«ver jongkmaun zaunj.
+zooëver jongkmaun zaunj.
 Da kan nie zaunj!
 Want ik hou van een goei,
 gezonde affaire.
 'k Zou zeu gei-ei-ren.
 \endverse
 \beginverse*
-En ma lief, die eet een nooÃ«masjien,
-een stikmasjien, een nooÃ«masjien.
-En ma lief, die eet een nooÃ«masjien,
+En ma lief, die eet een nooëmasjien,
+een stikmasjien, een nooëmasjien.
+En ma lief, die eet een nooëmasjien,
 mor ik em et nog neut ni gezien!
 \endverse
 \beginverse*
@@ -1663,32 +449,32 @@ Zjweng, zjweng!
 \endsong
 \beginsong{Ein Schifflein sah ich fahren}
 \beginverse*
-Ein Schifflein sah ich fahren, KapitÃ¤n und Leutenant,
+Ein Schifflein sah ich fahren, Kapitän und Leutenant,
 darinnen waren geladen, zwei brave Kompanien Soldaten.
 \endverse
 \beginverse*
-KapitÃ¤n, leutenant, FÃ¤hnrich und Sergeant,
-nimmt das MÃ¤del, nimmt das MÃ¤del bei der Hand.
-Soldaten, Kameraden, nimmt das MÃ¤del,
-nimmt das MÃ¤del bei der Hand.
+Kapitän, leutenant, Fähnrich und Sergeant,
+nimmt das Mädel, nimmt das Mädel bei der Hand.
+Soldaten, Kameraden, nimmt das Mädel,
+nimmt das Mädel bei der Hand.
 \endverse
 \beginverse*
-Was sollen die Soldaten essen? KapitÃ¤n und Leutenant
+Was sollen die Soldaten essen? Kapitän und Leutenant
 gebratnen Fisch mit Kressen, das sollen die Soldaten essen.
 \endverse
 \beginverse*
-Was wollen die Soldaten trinken? KapitÃ¤n und Leutenant
+Was wollen die Soldaten trinken? Kapitän und Leutenant
 den besten Wein, der zu finden, den sollen die Soldaten trinken.
 \endverse
 \beginverse*
-Wo sollen die Soldaten schlafen? KapitÃ¤n und Leutenant
-bei ihren Gewehr und Waffen, da mÃ¼ssen die Soldaten schlafen.
+Wo sollen die Soldaten schlafen? Kapitän und Leutenant
+bei ihren Gewehr und Waffen, da müssen die Soldaten schlafen.
 \endverse
 \endsong
 \beginsong{Einmal am Rhein}
 \beginverse*
 Einmal am Rhein, und dann zur zwein alleine sein;
-Einmal am Rhein, beim GlÃ¤schen Wein beim Mondenschein,
+Einmal am Rhein, beim Gläschen Wein beim Mondenschein,
 Einmal am Rhein, du glaubst die ganze welt ist dein.
 Es lacht der Mund zu jeder Stund, das kranke herz, as wird gesund.
 Komm, ich lade dich ein, einmal am Rhein.
@@ -1740,9 +526,9 @@ En as jy wil, onthou.
 \beginverse*
 Want skadu's sal'k nie sien,
 Of voel hoe dat water week
-Nie hoor hoe dat die voÃ«ltjies sing
+Nie hoor hoe dat die voëltjies sing
 As of hul harte breek.
-Nie hoor hoe dat die voÃ«ltjies sing
+Nie hoor hoe dat die voëltjies sing
 As of hul harte breek.
 \endverse
 \beginverse*
@@ -1791,17 +577,17 @@ Met die boerjongkerels hier
 En revenant de Saint-Nazaire en France
 Oh lalalala - lalalala
 En revenant de Saint-Nazaire en France
-Tiens, voilÃ  mon coeur
-Tiens tiens tiens, voilÃ  mon coeur.
+Tiens, voilà mon coeur
+Tiens tiens tiens, voilà mon coeur.
 \endverse
 \beginverse*
-Jâ€™ai rencontrÃ© trois belles filles Flamandes
-Jâ€™en ai choisi la plus belle la plus grosse
-Je lâ€™ai donnÃ© un coup avec ma lance
-Ã€prÃ¨s trois mois, voilÃ  le ventre qui gonfle
-Ã€prÃ¨s neuf mois, voilÃ  le bÃ©bÃ© qui chante
-Ã€prÃ¨s dix mois, elle veut que je recommence
-Mais je nâ€™avais plus de jus dans mes oranges. 
+J’ai rencontré trois belles filles Flamandes
+J’en ai choisi la plus belle la plus grosse
+Je l’ai donné un coup avec ma lance
+Àprès trois mois, voilà le ventre qui gonfle
+Àprès neuf mois, voilà le bébé qui chante
+Àprès dix mois, elle veut que je recommence
+Mais je n’avais plus de jus dans mes oranges. 
 \endverse
 \endsong
 \begin{intersong}
@@ -1842,23 +628,23 @@ Er is cake, cake, vers van verleden week.
 \endsong
 \beginsong{Erika}
 \beginverse*
-Auf der Heide bluht ein kleines BIÃ»melein,
-und das heiÃŸt, Erika.
-HeiÃŸ von hunderttausend kleinen Bienelein,
-wird umschwÃ¤rmt, Erika.
-Denn ihr Herz ist voller SÃ»ssigkeit,
-zarter duft entstrÃ¶mt dem BIÃ»tekleid.
-Auf der Heide blÃ»ht ein kleines BlÃ»melein,
-und das heiÃŸt, Erika.
+Auf der Heide bluht ein kleines BIûmelein,
+und das heißt, Erika.
+Heiß von hunderttausend kleinen Bienelein,
+wird umschwärmt, Erika.
+Denn ihr Herz ist voller Sûssigkeit,
+zarter duft entströmt dem BIûtekleid.
+Auf der Heide blûht ein kleines Blûmelein,
+und das heißt, Erika.
 \endverse
 \beginverse*
-In der Heimat wohnt ein kleines MÃ¤gdelein,
-und das heiÃŸt, Erika.
-Dieses MÃ¤del ist mein treues SchÃ¤tzelein,
-und mein GlÃ»ck, Erika.
-Wenn das Heidekraut Rotlila blÃ¼ht,
-singe ich sum gruÃŸ ihr dieses Lied.
-Auf der Heide blÃ¼ht ein kleines â€¦
+In der Heimat wohnt ein kleines Mägdelein,
+und das heißt, Erika.
+Dieses Mädel ist mein treues Schätzelein,
+und mein Glûck, Erika.
+Wenn das Heidekraut Rotlila blüht,
+singe ich sum gruß ihr dieses Lied.
+Auf der Heide blüht ein kleines …
 \endverse
 \endsong
 \beginsong{Everywhere we go}
@@ -1870,7 +656,7 @@ Where do you go to \rep{2}
 And we shall always tell them \rep{2}	
 We come from Nienof \rep{2}
 Mary mary Nienof \rep{2}
-And if they donâ€™t hear us \rep{2}
+And if they don’t hear us \rep{2}
 We sing a little louder \rep{2}	
 \endchorus
 \beginchorus
@@ -1915,55 +701,55 @@ Hand am Tich, hand am tich, tra-lala-lalalala
 Hand am Tich, hand am tich, tra-lala-lalalala.
 \endverse
 \beginverse
-Zwei am Tichâ€¦
+Zwei am Tich…
 \endverse
 \beginverse
-Gatz von Stuhlâ€¦
+Gatz von Stuhl…
 \endverse
 \beginverse
-Fuz am Stuhlâ€¦
+Fuz am Stuhl…
 \endverse
 \beginverse
-Zwei am Stuhlâ€¦
+Zwei am Stuhl…
 \endverse
 \beginverse
-Tich von Grundâ€¦
+Tich von Grund…
 \endverse
 \beginverse
-Hand von Tichâ€¦
+Hand von Tich…
 \endverse
 \beginverse
-Hand am Glassâ€¦
+Hand am Glass…
 \endverse
 \beginverse
-Trinken nurâ€¦
+Trinken nur…
 \endverse
 \beginverse
-EIN PROSITâ€¦
+EIN PROSIT…
 \endverse
 \beginverse
-Glas am Tichâ€¦
+Glas am Tich…
 \endverse
 \beginverse
-Hand von Glasâ€¦
+Hand von Glas…
 \endverse
 \beginverse
-Hand am Tichâ€¦
+Hand am Tich…
 \endverse
 \beginverse
-TIch am Grundâ€¦
+TIch am Grund…
 \endverse
 \beginverse
-Fuz am Grundâ€¦
+Fuz am Grund…
 \endverse
 \beginverse
-Zwei am Grundâ€¦
+Zwei am Grund…
 \endverse
 \beginverse
-Hand von Tichâ€¦
+Hand von Tich…
 \endverse
 \beginverse
-Zwei von Tichâ€¦
+Zwei von Tich…
 \endverse
 \endsong
 \beginsong{Heimwee doet ons hart verlangen}
@@ -1974,7 +760,7 @@ zwaar van rouw of hel van vreugd.
 Zangen uit de oude toren,
 hij die waakt en verre schouwt,
 over 't dorpje droomverloren,
-kronkâ€™lend aan zijn voet gebouwd.
+kronk’lend aan zijn voet gebouwd.
 \endverse
 \beginverse*
 Heimwee doet ons hart verlangen,
@@ -2045,7 +831,7 @@ Ge laat geen rust aan mij.
 \endverse
 \beginverse
 Het meisje heeft twee oogskens fijn,
-Die fonkâ€™len als een sterrekijn.
+Die fonk’len als een sterrekijn.
 \endverse
 \beginverse
 Het meisje heeft een rozige mond,
@@ -2063,9 +849,9 @@ Dat zal wel voor eeuwig 't mijne zijn!
 \beginsong{Hinky-Pinky}
 \beginverse
 En dit is de historie van een oude Chinees.
-Hij heette Hinky-Pinky, daâ€™s net zoveel als Kees.
+Hij heette Hinky-Pinky, da’s net zoveel als Kees.
 Hij had een heel klein stalletje, aan de Chinese muur.
-Hij verkocht er pindaâ€™s, pindaâ€™s, augurkjes in het zuur.
+Hij verkocht er pinda’s, pinda’s, augurkjes in het zuur.
 \endverse
 \beginchorus
 En van je hela hela hela ho lala
@@ -2080,7 +866,7 @@ De politie kwam eens kijken, hij moest uit China weg
 Een kaartje voor de gevangenis, wat had die man een pech.
 \endverse
 \beginverse
-En dit was dan dâ€™historie, van een oude Chinees
+En dit was dan d’historie, van een oude Chinees
 Hij heette Hinky-Pinky, 't was net zoveel als Kees. 
 \endverse
 \endsong
@@ -2162,13 +948,13 @@ En willen 't zo ver drijven,
 eens goede scouts te zijn.
 \endverse
 \endsong
-\beginsong{If youâ€™re happy and you know it}
+\beginsong{If you’re happy and you know it}
 \beginverse
-if youâ€™re happy and you know, it clap your hands
-If youâ€™re happy and you know, it clap your hands
-If youâ€™re happy and you know, it
+if you’re happy and you know, it clap your hands
+If you’re happy and you know, it clap your hands
+If you’re happy and you know, it
 And you really want to show, it
-If youâ€™re happy and you know, it clap your hands
+If you’re happy and you know, it clap your hands
 \endverse
 \beginchorus
 Singing ja ja joepi joepi jee
@@ -2177,16 +963,16 @@ Singing ja ja joepi, ja ja joepi,
 Ja ja joepi joepi jee.
 \endchorus
 \beginverse
-... stamp your feetâ€¦
+... stamp your feet…
 \endverse
 \beginverse
-...say hey manâ€¦
+...say hey man…
 \endverse
 \beginverse
-...give a kissâ€¦
+...give a kiss…
 \endverse
 \beginverse
-...do all fourâ€¦
+...do all four…
 \endverse
 \endsong
 \beginsong{De slag van Soetenaaie}
@@ -2194,7 +980,7 @@ Ja ja joepi joepi jee.
 Daar was ne keer de slag van Soetenaaie
 Ge moest da zien, de slag der kurassier,
 Kurassier, vooruit, geef vuur,
-Met de linkerduimâ€¦ 
+Met de linkerduim… 
 \endverse
 \beginchorus
 Met de linkerduim; met de rechterduim;
@@ -2244,12 +1030,12 @@ Waar het lied der branding ruist bij dag en nacht,
 waar 't vertrouwde huisje altijd op me wacht,
 waar de meeuwen schreeuwen boven 't golfgedruis,
 daar ben ik geboren, daar voel ik me thuis.
-Waar de klokken luiden â€œvisser vaar naar huisâ€
+Waar de klokken luiden “visser vaar naar huis”
 daar ben ik geboren, daar voel ik me thuis.
 \endchorus
 \beginverse*
 Ik voel me klein, wanneer de stormen huilen,
-bij donkâ€™re nacht, belust op zwakke buit.
+bij donk’re nacht, belust op zwakke buit.
 Maar voor geen geld ter wereld wil ik ruilen,
 mijn vrij bestaan, als koning op mijn schuit.
 \endverse
@@ -2333,9 +1119,9 @@ Op eer en trouw.
 \endsong
 \beginsong{Van aan het frisse noordzeestrand}
 \beginverse
-Van  aan  het  frisse  noord â€“ zee â€“ strand
-Tot  aan de  Kem â€“ pische  hei
-Daar  tre â€“ kken  ke â€“ rels  door  het  land
+Van  aan  het  frisse  noord – zee – strand
+Tot  aan de  Kem – pische  hei
+Daar  tre – kken  ke – rels  door  het  land
 Zo  op - ge - wekt  e-en  blij  ( e-en blij)
 \endverse
 \beginchorus
@@ -2345,9 +1131,9 @@ Ha-ali hali halo wij trekken.
 Wij zijn de Scouts, Hoezee !
 \endchorus
 \beginverse
-Zo  tre â€“ kken  wij  ons  le â€“ ven  door
-Steeds  op â€“ ge â€“ wekt  e-en  blij
-En  vol â€“ gen steeds  het  rechte  spoor
+Zo  tre – kken  wij  ons  le – ven  door
+Steeds  op – ge – wekt  e-en  blij
+En  vol – gen steeds  het  rechte  spoor
 Dat  voert  ons  heme-elwaarts. (hemelwaarts)
 \endverse
 \endsong
@@ -2368,7 +1154,7 @@ Hakke, hakke, tuut-tuut, weg zijn wij.
 In een klein stationnetje, laat al op de avond
 Kwamen pa en ma gegaan, netjes op een rij
 Ze namen 't machinisteken, vanachter 't klein wieleken. 
-Nu maar gauw naar huis toe â€œdo-doâ€ doen. 
+Nu maar gauw naar huis toe “do-do” doen. 
 \endverse
 \endsong
 \beginsong{In het bos daar staat een huisje}
@@ -2383,31 +1169,31 @@ Laat mij in uw huisje klein,
 'k Zal u dankbaar zijn. 
 \endverse
 \endsong
-\beginsong{In MÃ¼nchen steht ein hofbrÃ¤uhaus}
+\beginsong{In München steht ein hofbräuhaus}
 \beginverse*
-Da wo die grÃ¼ne Isar flÃ¼sst,
-wo man mit GrÃ¼ss Gott dich grÃ¼sst,
-liegt meine schÃ¶ne MÃ¼nchnerstadt,
+Da wo die grüne Isar flüsst,
+wo man mit Grüss Gott dich grüsst,
+liegt meine schöne Münchnerstadt,
 die ihres gleichen nicht had.
 Wasser ist billig, frisch und gut,
-nur verdÃ¼nnt es unseres Blut.
-SchÃ¶ner sind tropfen goldnen weins,
-aber am schÃ¶nsten ist eins!
-In MÃ¼nchen steht ein HofbrÃ¤uhaus,
+nur verdünnt es unseres Blut.
+Schöner sind tropfen goldnen weins,
+aber am schönsten ist eins!
+In München steht ein Hofbräuhaus,
 eins, zwei, suffa.
-Da lÃ¤uft so manches FÃ¤sschen aus,
+Da läuft so manches Fässchen aus,
 eins, zwei, suffa.
 Da hat so mancher brave Mann,
 eins, zwei, suffa,
 gezigt was er schon vertragen kan.
-Schon frÃ¼h am Morgen fing er an,
-und spÃ¤t am Abend kam er nach Haus,
-so schÃ¶n istâ€™s im HofbrÃ¤uhaus!
+Schon früh am Morgen fing er an,
+und spät am Abend kam er nach Haus,
+so schön ist’s im Hofbräuhaus!
 Da trinkt man Bier nicht auf den Glas,
-da gibtâ€™s nur die grosse Hass,
+da gibt’s nur die grosse Hass,
 und wen die erste Mass ist leer,
 dan bringt dir die resl bald mehr.
-Dann krigt zu Haus die Frauâ€™nen schrek,
+Dann krigt zu Haus die Frau’nen schrek,
 bleibt der Mann noch lange weg?
 Aber die braven Nachbarleut,
 die wissen besser bescheid!
@@ -2418,19 +1204,19 @@ die wissen besser bescheid!
 In Seoul bij storm en bij regen,
 Daar stond een vrijwilliger op wacht.
 Hij hoorde de kreten der zege,
-Maar plots trof een kogel hem in â€™t hart.
+Maar plots trof een kogel hem in ’t hart.
 En stervend zeeg hij, neder in die nacht,
 Ja in die nacht
 \endverse
 \beginverse*
 Gegroet mijn Vlaamse land,
-Gegroet mijn meisje in â€™t mooie Vlaamse land.
+Gegroet mijn meisje in ’t mooie Vlaamse land.
 En stervend zeeg hij, neder in die nacht,
 Ja in die nacht,
 \endverse
 \beginverse*
 Gegroet mijn Vlaamse land,
-Gegroet mijn meisje in â€™t mooie Vlaamse land
+Gegroet mijn meisje in ’t mooie Vlaamse land
 \endverse
 \endsong
 \beginsong{Io Vivat}
@@ -2473,13 +1259,13 @@ Nobiscum amet gaudia.
 \endsong
 \beginsong{It's a long way}
 \beginverse*
-Itâ€™s a long way to Tipperary,
-itâ€™s a long way to go.
-Itâ€™s a long way to Tipperary,
+It’s a long way to Tipperary,
+it’s a long way to go.
+It’s a long way to Tipperary,
 to the sweatest square I know.
 Goodbye Piccadilly,
 goodby Leicester square.
-Itâ€™s a long way to Tipperary,
+It’s a long way to Tipperary,
 but my heart is still there.
 \endverse
 \endsong
@@ -2494,7 +1280,7 @@ door bos en hei en strand.
 Tralalalala, hey frieten met sala, hey
 en een koude vla met nog een stukske
 chocolalalal, hey frieten met sala, hey
-en een koude vla met choclaaaâ€¦
+en een koude vla met choclaaa…
 \endchorus
 \beginverse
 De soep is soms een beetje aangebrand
@@ -2557,28 +1343,28 @@ en Jef ging nie nor oosj	\rep{2}
 \endverse
 \beginverse
 Jef ge moetj nor oosj to goan a vraaken es in de kerk	\rep{2}
-Es zâ€™in de kerk, lotj zâ€™in de kerk, tein ee meniÃ«r pastoer zij werk
+Es z’in de kerk, lotj z’in de kerk, tein ee meniër pastoer zij werk
 en Jef ging nie nor oosj \rep{2}
 \endverse
 \beginverse
-Jef ge moetj nor oosj to goan a vraaken es inâ€™t graf \rep{2}
-Es zâ€™in 't graf, litj zâ€™in 't graf, tein benne ker ver goe vanaf
+Jef ge moetj nor oosj to goan a vraaken es in’t graf \rep{2}
+Es z’in 't graf, litj z’in 't graf, tein benne ker ver goe vanaf
 en Jef ging nie nor oosj \rep{2}
 \endverse
 \beginverse
-Jef ge moetj nor oosj to goan a vraaken es in dâ€™hel	\rep{2}
-Es zâ€™in dâ€™hel, lotj zâ€™in dâ€™hel, tein eet den duvel euk za spel
+Jef ge moetj nor oosj to goan a vraaken es in d’hel	\rep{2}
+Es z’in d’hel, lotj z’in d’hel, tein eet den duvel euk za spel
 en Jef die ging nor oosj \rep{2}
 \endverse
 \endsong
 \begin{intersong}
     \includegraphics[width=0.4\textwidth]{jefzalveroonsgienkommissekesnimmerdoen}
 \end{intersong}
-\beginsong{Jef zal ver oons giÃ«n kommissekes nimmer doen}
+\beginsong{Jef zal ver oons giën kommissekes nimmer doen}
 \beginverse*
-Jef zal ver ons giÃ«n kommissekes nimmer doen \rep{2}
+Jef zal ver ons giën kommissekes nimmer doen \rep{2}
 Op zijn klein veloken \rep{2}
-Jef zal ver ons giÃ«n kommissekes nimmer doen. 
+Jef zal ver ons giën kommissekes nimmer doen. 
 \endverse
 \endsong
 \beginsong{JUCHHEIDI}
@@ -2630,7 +1416,7 @@ Waar elk meisje hem bemint.
 Overal de vlag in top!
 Hel'dre ogen, warme kop.
 En de strijdzang langs de ree:
-"Vliegt de blauwvoet? Storm op Zee!â€
+"Vliegt de blauwvoet? Storm op Zee!”
 \endverse
 \beginverse
 Leefden wij nog honderd jaar,
@@ -2701,7 +1487,7 @@ Wat hels lawaai \rep{2}
 Wat dom geroep\rep{2}
 \endverse
 \beginchorus
-Bij 't zien van zoâ€™n kerels,
+Bij 't zien van zo’n kerels,
 maakt U maar geen verdriet,
 twee maanden bij de wolfjes,
 en jij herkent ze niet.
@@ -2748,7 +1534,7 @@ Tot niks gereed \rep{2}
 Boven Gent rijst, eenzaam en grijs,
 't Oud Belford, zinbeeld van 't verleden,
 Somber en groots, steeds stom en doods,
-Treurt dâ€™ oude reus op 't Gent van heden,
+Treurt d’ oude reus op 't Gent van heden,
 Maar soms hij rilt en eensklaps gilt,
 Zijn bronzen stemme door de stede.
 Trilt in uw graf, trilt, Gentse helde,
@@ -2758,12 +1544,12 @@ en luide storm in Vlaanderland.
 \endverse
 \beginverse*
 En bont verschiet, Schept 't bronzen lied,
-Prachtig weertovâ€™rend mij voor dâ€™ogen.
+Prachtig weertov’rend mij voor d’ogen.
 Mijn ziel herkent, Het oude Gent,
 't volk komt gewapend toegevlogen:
-'t land is in nood â€œvrijheid of doodâ€,
+'t land is in nood “vrijheid of dood”,
 De gilden komen aangetogen.
-'k zie Jan Hyoens, 'k zie dâ€™Artevelden,
+'k zie Jan Hyoens, 'k zie d’Artevelden,
 en stormend roept Roeland de helden.
 Mijn naam is Roeland, 'k kleppe brand,
 En luide storm in Vlaanderland.
@@ -2775,10 +1561,10 @@ O bronzen lied, 'k Wete uw bedied,
 En ik versta 't verwijtend klagen,
 Doch wees getroost: zie 't Oosten bloost,
 En vlaanderens zonne gaat aan 't dagen
-â€œVlaanderen die leuâ€, tril, oude toren,
+“Vlaanderen die leu”, tril, oude toren,
 En paar een lied met onze koren;
-Zing â€œIk ben Roeland, 'k kleppe brand,
-Luide triomf in Vlaanderenland!â€.
+Zing “Ik ben Roeland, 'k kleppe brand,
+Luide triomf in Vlaanderenland!”.
 \endverse
 \endsong
 \beginsong{Kom maar aan je deuren kijken}
@@ -2790,8 +1576,8 @@ trekkers van de nieuwe tijd.
 Waar wij blijde mensen groeten,
 klinkt ons staplied dubbel hard.
 Zien wij soms droeve gezichten,
-dan schenkt ons eerder vreugdâ€™ dan smart.
-Zingend Vlaandâ€™ren trouw te dienen,
+dan schenkt ons eerder vreugd’ dan smart.
+Zingend Vlaand’ren trouw te dienen,
 faja faja faja faja hop hop hop.
 met ons doel valt niet te grienen,
 Faja faja faja faja hop hop hop
@@ -2807,9 +1593,9 @@ Kumbaya my lord, kumbaya \rep{3}
 Oh, lord, kumbaya \rep{2}
 \endverse
 \beginchorus
--	Someoneâ€™s singing my lord, kumbaya \rep{3}
--	Someoneâ€™s sleeping my lord, kumbaya	\rep{3}
--	Someonâ€™s praying my lord, kumbaya	\rep{3}
+-	Someone’s singing my lord, kumbaya \rep{3}
+-	Someone’s sleeping my lord, kumbaya	\rep{3}
+-	Someon’s praying my lord, kumbaya	\rep{3}
 
 \endchorus
 \endsong 
@@ -2833,7 +1619,7 @@ De reuzen van nu lijken morgen maar dwergen
 vooruitgang vernieuwt wat er gisteren nog stond. 
 \endverse
 \beginverse
-De vis in de zeeÃ«n vergiftigd gestorven,
+De vis in de zeeën vergiftigd gestorven,
 Het zand op het strand vervuild met mazout. 
 En jij door de tankers en chequeboek bedorven,
 Je weet zelf niet meer waar de meeuw heeft gebroed. 
@@ -2847,10 +1633,10 @@ geen mens die nog weet hoe 't einde begon.
 \endsong
 \beginsong{Les Montagnards}
 \beginverse
-Montagnes PyrÃ©nÃ©es, je tâ€™aimerai toujours.
-Montagnes fortunÃ©es, je tâ€™aimerai toujours.
-Rien nâ€™est si beau que mon pays, que mon pays.
-Rien nâ€™est si beau que ma patrie, que ma patrie. 
+Montagnes Pyrénées, je t’aimerai toujours.
+Montagnes fortunées, je t’aimerai toujours.
+Rien n’est si beau que mon pays, que mon pays.
+Rien n’est si beau que ma patrie, que ma patrie. 
 Les Montagnards, les Montagnards,
 Chantez en coeur, chantez en coeur,
 De mon pays, de mon pays, 
@@ -2859,8 +1645,8 @@ La la lala lala la la lala la la
 \endverse
 \beginchorus
 Altla altla altla: les Montagnards, les Montagnards,
-Altla altla altla: les Montagnards sont lÃ .
-Les Montagnards, les Montagnards sont lÃ .
+Altla altla altla: les Montagnards sont là.
+Les Montagnards, les Montagnards sont là.
 \endchorus
 \endsong
 \beginsong{Let it be}
@@ -2885,7 +1671,7 @@ Yeh, there will be an answer: let it be
 And when the broken-hearted people
 Living in the world  agree,
 There will be an answer: let it be.
-For thoâ€™they may be parted,
+For tho’they may be parted,
 There is still a chance that they will see,
 There will be an answer, let it be. 
 \endverse
@@ -2903,26 +1689,26 @@ Speaking words of wisdom: let it be.
 Vor der Kaserne, vor dem grossen Tor,
 stand eine Lanterne und steht sie noch davor.
 So wollen wir un wiedersehn,
-bei der Lanterne wollâ€™n wir stehn.
+bei der Lanterne woll’n wir stehn.
 Wie einst Lili-Marleen.
 \endverse
 \endsong
 \beginsong{Loch Lomon}
 \beginverse*
 By you bonnie banks and by yon bonnie braes,
-Where the sun shines bright on Loch Lomonâ€™
+Where the sun shines bright on Loch Lomon’
 Where we and my true love were ever wont to be
-On the bonnie, bonnie banks of Loch Lomonâ€™
+On the bonnie, bonnie banks of Loch Lomon’
 \endverse
 \beginchorus
-Oh youâ€™ll take the high road, and Iâ€™ll take the low road,
-And Iâ€™ll be in Scotland before you,
+Oh you’ll take the high road, and I’ll take the low road,
+And I’ll be in Scotland before you,
 But me and my true love will never meet again,
-On the bonnie, bonnie banks of Loch Lomonâ€™.
+On the bonnie, bonnie banks of Loch Lomon’.
 \endchorus
 \beginverse*
 I mind where we parted in yon shady glen,
-On the steep, steep side of Ben Lomonâ€™
+On the steep, steep side of Ben Lomon’
 Where in deep purple hue, the Highlands hills we view
 And the moon coming out in the gloaming. 
 The wee birdies sing and the wild flowers spring
@@ -2967,7 +1753,7 @@ We trekken zingend naar de djungle toe.
 \beginverse*
 Met mijn hand op mezelf, en wat heb ik daar?
 Dat is mijn leerkastje zeg ik voorwaar.
-Leerkastjeâ€¦ hollebolle krullekop
+Leerkastje… hollebolle krullekop
 Dat is 't geen ik leerde bij meester Top.
 \endverse
 \beginchorus
@@ -3028,29 +1814,29 @@ Hij goot omhuuge, 't es 't ziene weert,
 \endchorus
 \beginverse*
 Mietje van de koolmarchang, een meisken uit mijn strotjen,
-Keurde mijne cervolant, en zâ€™had er 't handje van,
-Want zo rap als de wind was zâ€™aan 't spelen met mijn klauwe,
+Keurde mijne cervolant, en z’had er 't handje van,
+Want zo rap als de wind was z’aan 't spelen met mijn klauwe,
 En ze riep 't es 't spelen weert, want hij ee ne goeie steert. 
-Ja mijne vlieger â€¦ twee bollekes â€¦ 
+Ja mijne vlieger … twee bollekes … 
 \endverse
 \beginverse*
 't Seef liet zijne vlieger op van 't soepe, 't soepe, 't soepe,
 Maar hij stuikt op zijne kop, en muile dat hij trok. 
 Zij spankoorde was veel te kort, en met zijn 't sietse klauwe, 
 En daarbij was zijne steert gen chique toebak weert.
-Maar mijne vlieger â€¦ Ã©Ã©n bolleken â€¦
+Maar mijne vlieger … één bolleken …
 \endverse
 \beginverse*
-Laatst op 't Sint-Denijsplein, mijne vlieger was aanâ€™t zweve,
-dâ€™er kwam een wijf, een groot venijn, ze zei dat mag niet zijn. 
+Laatst op 't Sint-Denijsplein, mijne vlieger was aan’t zweve,
+d’er kwam een wijf, een groot venijn, ze zei dat mag niet zijn. 
 Hij hangt te veel in mijne weg, en ze begost er aan te sleuren,
-En op een twee drei pardaf, de koorde schoot er afâ€¦
+En op een twee drei pardaf, de koorde schoot er af…
 \endverse
 \beginchorus
 Hij was go vliegen, al mee de wind,
 'k Stonde te schrieme, 'k was mor e kind,
 Mijnen bol klauwe, die ging ne gang,
-Dat zal 'k omtauwe, mijn leven langâ€¦  
+Dat zal 'k omtauwe, mijn leven lang…  
 \endchorus
 \endsong 
 \beginsong{My Bonnie is over the ocean}
@@ -3080,7 +1866,7 @@ And brought back my Bonnie to me.
 \endverse
 \beginverse*
 Man bommau marsjeert op gallosjen,
-man bommau marsjeert in de sjnieÃ¨,
+man bommau marsjeert in de sjnieè,
 man  bommau marsjeert op gallosjen,
 en zee gien kou voeten ne mie.
 \endverse
@@ -3088,20 +1874,20 @@ en zee gien kou voeten ne mie.
 Man bompa die drinkt altijd vaarzen,
 man bompa die is altijd zat, 
 man bompa die drinkt altijd vaarzen,
-en sâ€™anderdaags leit em weer plat!
+en s’anderdaags leit em weer plat!
 \endverse
 \endsong 
 \beginsong{Nobody Knows}
 \beginverse*
-Nobody knows, the trouble Iâ€™ve seen,
+Nobody knows, the trouble I’ve seen,
 nobody knows, but Jesus,
-nobody knows, the trouble Iâ€™ve seen,
+nobody knows, the trouble I’ve seen,
 glory, hallelujah
 \endverse
 \beginverse*
-Sometimes Iâ€™m up, sometimes Iâ€™m down,
+Sometimes I’m up, sometimes I’m down,
 oh yes, lord.
-Sometimes Iâ€™m almost to the ground,
+Sometimes I’m almost to the ground,
 oh yes, Lord.
 \endverse
 \beginverse*
@@ -3111,7 +1897,7 @@ For you to drive my sins away,
 oh yes, Lord.
 If you get there before I do,
 oh yes, Lord
-Tell all my friends Iâ€™m coming too,
+Tell all my friends I’m coming too,
 oh yes, Lord.
 \endverse
 \endsong
@@ -3175,15 +1961,15 @@ I want to be in that number.
 O when the saints go marching in.
 \endverse
 \beginchorus
-Iâ€™ve got in love a father,
-heâ€™s gone to heaven I know.
+I’ve got in love a father,
+he’s gone to heaven I know.
 But I would meet him,
 when the saints go marching in.
 \endchorus
 \endsong 
-\beginsong{Oâ€™ Pescator}
+\beginsong{O’ Pescator}
 \beginverse*
-O pescator dellâ€™ ondÃ©
+O pescator dell’ ondé
 O Frederi
 Vieni a pescar in qua
 Sulla tua bella barca
@@ -3192,10 +1978,10 @@ Frederi -la -la
 \rep{2}
 \endverse
 \beginverse*
-Che casa vuol ohâ€™io peschi	
+Che casa vuol oh’io peschi	
 O Frederi			
-Lâ€™avel che unâ€™e casca		
-Sulla tuaâ€¦			
+L’avel che un’e casca		
+Sulla tua…			
 \rep{2}
 \endverse
 \beginverse*
@@ -3209,7 +1995,7 @@ Sulla...
 Non voglio cento sendi	
 O Frederi		
 Ne borsa ricanna	
-Sullaâ€¦			
+Sulla…			
 \rep{2}
 \endverse
 \endsong
@@ -3240,12 +2026,12 @@ everywhere a chick-chick,
 old Mac Donald had a farm, e-i-e-i-o
 \endverse
 \beginverse*
-â€¦ some ducks - quack-quack
-â€¦ some cows - moo-moo
-â€¦ some pigs - oink-oink
-â€¦ some cats - mauw-mauw
-â€¦ some dogs - wouf-wouf
-â€¦ a car - broom-broom
+… some ducks - quack-quack
+… some cows - moo-moo
+… some pigs - oink-oink
+… some cats - mauw-mauw
+… some dogs - wouf-wouf
+… a car - broom-broom
 \endverse
 \endsong 
 \beginsong{Omer Gaspard}
@@ -3255,14 +2041,14 @@ encore un verre,
 encore un verre, encore
 Allons Omer Gaspard,
 encore un verre,
-et Ã§a fait tard.
+et ça fait tard.
 \endverse
 \beginverse*
 Si paternel,
 si paternel revient,
 on lui dira
 son verre est toujours,
-plein, plein, plein,â€¦
+plein, plein, plein,…
 \endverse
 \endsong 
 \beginsong{Ons devies is dienen}
@@ -3308,9 +2094,9 @@ Een spoor dat de anderen redt.
 En daarom reik mij je hand, kameraden,
 Zo gaan wij tesamen vooraan,
 Dan mag ons de wereld verraden,
-Onzâ€™ vriendschap blijft eeuwig bestaan,
+Onz’ vriendschap blijft eeuwig bestaan,
 Dan mag ons de wereld verraden,
-Onzâ€™ vriendschap blijft eeuwig bestaan,
+Onz’ vriendschap blijft eeuwig bestaan,
 \endverse
 \beginverse*
 Wij hebben ons woord eens gegeven, 
@@ -3321,23 +2107,23 @@ De andren zij mogen begeven,
 Doch wij willen niet meer terug.
 \endverse
 \endsong 
-\beginsong{Rij maar an â€¦ ossewÃ¤}
+\beginsong{Rij maar an … ossewä}
 \beginverse*
-Rij maar an, ossewÃ¤, rij maar anâ€¦ \rep{2}
+Rij maar an, ossewä, rij maar an… \rep{2}
 Weet je wel waarheen ie ga?
-Wel naar huis toe rij die wÃ¤.
-Rij maar an, ossewÃ¤, rij maar an.
+Wel naar huis toe rij die wä.
+Rij maar an, ossewä, rij maar an.
 \endverse
 \beginverse*
-Zachtjes naar het maÃ¯sveld. \rep{2}
-Daar lÃ¤ men die ossewÃ¤.
+Zachtjes naar het maïsveld. \rep{2}
+Daar lä men die ossewä.
 En weldra is ie kant en klaar.
 \endverse
 \beginverse*
 Zachtjes trekke, niet te snel,
-anders wordt die os te moeâ€¦
+anders wordt die os te moe…
 Langsam an en niet te snel,
-bereiken zal jâ€™ons huisje wel.
+bereiken zal j’ons huisje wel.
 \endverse
 \endsong 
 \beginsong{Roosmarijntje}
@@ -3368,7 +2154,7 @@ Ligt een schat geborgen!
 \beginverse*
 Roosmarijntje: schattebout;
 Heerlijk moet het wezen,
-Als gâ€™ ons eerste kindje douwt
+Als g’ ons eerste kindje douwt
 Uit een droom gerezen. 
 \endverse
 \endsong
@@ -3394,9 +2180,9 @@ Toe vlug ek na die kant van die Upinhton se sand,
 daar onder langs die grootrivier.
 \endverse
 \beginverse*
-Die kakies is mos net soosâ€™n krokodillepes,
+Die kakies is mos net soos’n krokodillepes,
 hul sleep jou altijd watertoe.
-Hul gooi opâ€™n skip virâ€™n lange lange trip,
+Hul gooi op’n skip vir’n lange lange trip,
 die josie weet waar na toe.
 \endverse
 \beginverse*
@@ -3462,7 +2248,7 @@ God nabij.
 \endsong
 \beginsong{Taraboemdery}
 \beginverse*
-Eitemal â€“ 'n Sweedse volkswysie
+Eitemal – 'n Sweedse volkswysie
 \endverse
 \beginverse*
 Taraboemdery, my va-aal haar noointjie
@@ -3612,10 +2398,10 @@ Want in de zee daar zitten haaien en die bijten je
 Blub blub blubblubblubbblubblub, blub blub blubblubblubblubblub.
 \endverse
 \beginverse*
-Negen kleine visjes â€¦ acht â€¦ zeven â€¦ â€¦ â€¦ â€¦
+Negen kleine visjes … acht … zeven … … … …
 \endverse
 \beginverse*
-Ã©Ã©n klein visje, dat ging naar de zeeâ€¦
+één klein visje, dat ging naar de zee…
 Want in de zee daar zitten haaien en die bijten je DOOD. 
 \endverse
 \endsong
@@ -3628,7 +2414,7 @@ kan schuren gelijk de beste.
 Tinneke van Heule, ons maartje,
 staat hoog in de gunst van mijn vaartje
 en als moederken haar prijst, dat mijn zuster er om krijst,
-dan lach ik een beetjâ€™ in mijn baardje.
+dan lach ik een beetj’ in mijn baardje.
 \endverse
 \beginchorus
 Liever dan een vis die in de goudzee zwemt,
@@ -3649,7 +2435,7 @@ en haar klompeken vast aan haar voetje.
 \beginverse*
 Tinneke van Heule, mijn minneken,
 op U staat mijn zoetste zinneken.
-U lust ik, U kustâ€™ ik, 
+U lust ik, U kust’ ik, 
 op uw harteken bouw en rust ik.
 Tinneke van Heule, mijn minneken,
 mijn poezelig dubbel kinneken,
@@ -3680,7 +2466,7 @@ In het kippenhok bom bom bom bom (volledig herhalen)
 Hang down your head, Tom Dooley,
 hang down your head and cry.
 Hang down your head, Tom Dooley,
-poor boy, youâ€™re born to die.
+poor boy, you’re born to die.
 \endchorus
 \beginverse*
 I met her in the mountain,
@@ -3690,18 +2476,18 @@ and stabbed her with my knife.
 \endverse
 \beginverse*
 This time tomorrow,
-reckon where Iâ€™ll be.
-If it hadnâ€™t been for Grayson,
-iâ€™d been for Tennessee.
+reckon where I’ll be.
+If it hadn’t been for Grayson,
+i’d been for Tennessee.
 \endverse
 \beginverse*
 This time tomorrow,
-reckon where Iâ€™ll be.
+reckon where I’ll be.
 In some lonesome valley,
 hanging on with oak tree.
 \endverse
 \endsong 
-\beginsong{Trink, trink, BrÃ¼derlein trink}
+\beginsong{Trink, trink, Brüderlein trink}
 \beginverse*
 Das trinken, das soll man nicht lassen,
 das trinken regiert doch die welt.
@@ -3713,9 +2499,9 @@ Es trank der Champagner schon mancher,
 und konn ihn nachher nicht bezahlen.
 \endverse
 \beginverse*
-Trink, trink, BrÃ¼derlein trink,
+Trink, trink, Brüderlein trink,
 lass toch die Sorgen zu hause.
-Trink, trink, BrÃ¼derlein trink,
+Trink, trink, Brüderlein trink,
 zieh doch die Stirn nicht zu grauss.
 Meide den kummer und meide den Schmerz,
 dan ist das leben ein Scherz.
@@ -3748,7 +2534,7 @@ Klommen niet de jongens als katten in 't want
 En vochten ze niet als leeuwen?
 Ze maakten de Spanjers duchtig te schand
 Tot Spanje klonk hun schreeuwen.
-Piet Hein, enzâ€¦
+Piet Hein, enz…
 \endverse
 \beginverse*
 Kwam er nu nog eenmaal zo'n Zilveren Vloot
@@ -3758,15 +2544,15 @@ Maar stil in je hangmat stoppen?
 "Wel Neerlands bloed,
 Dat bloed heeft nog wel moed!
 Al bennen we niet groot, (bis)
-We zoÃ¹en winnen een Zilveren Vloot
-We zoÃ¹en winnen, nog winnen een Zilvervloot!"
+We zoùen winnen een Zilveren Vloot
+We zoùen winnen, nog winnen een Zilvervloot!"
 \endverse
 \endsong
 \beginsong{uit die blou}
 \beginverse*
 Uit die blou van onse hemel, uit die diepte van ons see,
 Oor ons ewige gebergtes, waar die kranse antwoord gee,
-Deur ons vÃ©r verlate vlaktes met die kreun van ossewa,
+Deur ons vér verlate vlaktes met die kreun van ossewa,
 Ruis die stem van ons geliefde, van ons land Suid-Afrika.
 Ons sal antwoord op jouw roepstem, ons sal offer wat jy vra,
 Ons sal lewe, ons sal sterwe, ons vir jou Suid-Afrika.
@@ -3802,7 +2588,7 @@ Gij roept uit de verten, ik weet wat gij bediedt.
 \beginverse*
 En nu wil ik schrijden naast U in de rij,
 Weer klinken mijn liedren tot ver in de hei.
-En was ik een jongen die â€™t leven begeert,
+En was ik een jongen die ’t leven begeert,
 Dan heb ik het in uw rangen geleerd.
 \endverse
 \endsong
@@ -3828,7 +2614,7 @@ Klieft onze boot door de baren,
 weg alle zorgen en verdriet.
 \endverse
 \beginchorus
-OhÃ© kameraad, ohÃ© kameraad,
+Ohé kameraad, ohé kameraad,
 vaar mee kameraad, vaar mee kameraad.
 De zeilen haal op, haal op.
 De vlag in de top, in de top ! \rep{2}
@@ -3855,7 +2641,7 @@ en voor altijd vaarwel.
 \endverse
 \beginchorus
 Wel neen, 't is geen vaarwel,
-mijn broer, dra zien wâ€™elkander weer.
+mijn broer, dra zien w’elkander weer.
 In vreugd en in jolijt mijn broer,
 zien wij elkaar weer.
 \endchorus
@@ -3869,7 +2655,7 @@ ons harten bij elkaar.
 En waar zo scouts verbonden zijn,
 mag geen vaarwel gehoord.
 Maar rond den lichten wachtvuurschijn,
-â€œtot weerziensâ€ zij ons woord.
+“tot weerziens” zij ons woord.
 \endverse
 \beginverse*
 Want God die uit de hemel zendt, zijn zegen op ons neer.
@@ -3907,9 +2693,9 @@ ik wou dat ik er in prikken kon. \rep{2}
 \endsong
 \beginsong{Vlaanderen}
 \beginverse*
-'t Zijn weiden als wiegende zeÃ«en
+'t Zijn weiden als wiegende zeëen
 Die groenen langs stroom en rivier.
-Hier vredige dorpkens, daar steÃ«en
+Hier vredige dorpkens, daar steëen
 Die rijzen net torens vol zwier;
 't Zijn welige velden en wouden,
 Of vlakten der heide vol rust.
@@ -3983,8 +2769,8 @@ Voor outer en heerd,
 Ongeknecht, onvereerd.
 \endchorus
 \beginverse*
-Zij steunden op Oranje, de nederlanden Ã©Ã©n,
-En juichten toen BrittanniÃ«s beloofde vloot verscheen.
+Zij steunden op Oranje, de nederlanden één,
+En juichten toen Brittanniës beloofde vloot verscheen.
 Kloekmoeding in de gouwen van Diets Zuid-Nederland,
 Zijn allen sterk en trouwe, gesprongen in den brand.
 \endverse
@@ -4022,7 +2808,7 @@ in het late, late uur!
 \beginsong{Waarwij eens als makkers streden}
 \beginverse*
 Waar wij eens als makker streden,
-andâ€™ren staan met jeugdig frisse kracht.
+and’ren staan met jeugdig frisse kracht.
 Daar waar wij niet verder schreden,
 stormen zijn, terwijl de zege lacht.
 \endverse
@@ -4101,12 +2887,12 @@ Kloek en beraden zich bereidt, harten en zielen hoedt.
 \beginverse*
 Heute wollen wier marchieren,
 einen neuen March probieren,
-auf dem schÃ¶nen Westerwald,
+auf dem schönen Westerwald,
 ja, da pfeift der Wind so kalt.
 \endverse
 \beginverse*
 Oh! Du schoner Westerwald,
-ueber deine HÃ¶hen pfeift der Wind so kalt
+ueber deine Höhen pfeift der Wind so kalt
 jedoch der kleinste sonnenschein
 dringt tief ins Herz hinein.
 \endverse
@@ -4128,7 +2914,7 @@ Early in the morning.
 Hooray and up she rises, \rep{3}
 \endverse
 \beginverse
-Put him in the long boat until heâ€™s sober. \rep{3}
+Put him in the long boat until he’s sober. \rep{3}
 \endverse
 \beginverse
 Pull out the plug and wet him all over. \rep{3}
@@ -4137,16 +2923,16 @@ Pull out the plug and wet him all over. \rep{3}
 Put him in the scuppers with a hose-pipe on him. \rep{3}
 \endverse
 \beginverse
-Heave him by the leg in a running bowlinâ€™. \rep{3}
+Heave him by the leg in a running bowlin’. \rep{3}
 \endverse
 \beginverse
-Tie him to the taffrail when sheâ€™s yard-arm under. \rep{3}
+Tie him to the taffrail when she’s yard-arm under. \rep{3}
 \endverse
 \endsong
 \beginsong{Wij zijn al bijeen}
 \beginverse*
-Wij zijn alâ€™ bijeen, zotte kadullen, zotte kadullen
-Wij zijn alâ€™ bijeen , zotte kadullen ondereen.
+Wij zijn al’ bijeen, zotte kadullen, zotte kadullen
+Wij zijn al’ bijeen , zotte kadullen ondereen.
 Zou men nie meugen een pintje drinken,
 Zonder daarom een dronkaard te zijn?
 Zou men nie meugen een visje eten,
@@ -4155,15 +2941,15 @@ Zou men nie meugen eens vrolijk wezen,
 Zou men nie meugen vrolijk zijn.
 \endverse
 \beginverse*
-Wij zijn alâ€™...
+Wij zijn al’...
 \endverse
 \endsong
 \beginsong{Woutertje}
 \beginverse*
-Ik zag hem voorâ€™t eerst op de mat in de gang
-Ik zei: â€œGoeiemorgen, ben jij hier al lang?â€
-Hij zei: â€œNou ik denk een minuutje of vijf.â€
-â€œMaar â€™k vind je wel aardig, ik denk dat ik blijf.â€
+Ik zag hem voor’t eerst op de mat in de gang
+Ik zei: “Goeiemorgen, ben jij hier al lang?”
+Hij zei: “Nou ik denk een minuutje of vijf.”
+“Maar ’k vind je wel aardig, ik denk dat ik blijf.”
 \endverse
 \beginchorus
 Woutertje, Woutertje wiezewiezewiezewoep
@@ -4176,7 +2962,7 @@ En 's morgens om zeven uur maakt ie geluid.
 Dan roept ie om eten en wil ie er uit.
 \endverse
 \beginverse*
-Hij is reuze aardig en wâ€™hebben veel pret.
+Hij is reuze aardig en w’hebben veel pret.
 maar 's avonds om zeven uur wil ie naar bed.
 Hij trekt zijn pyjamaatje aan van katoen.
 Dan rolt ie zijn baard op en krijgt nog een zoen.
@@ -4190,8 +2976,8 @@ Dan rolt ie zijn baard op en krijgt nog een zoen.
 You are my sunshine
 My only sunshine
 You make me happy, when skies are gray
-Youâ€™ll never know dear, how much I love you
-Please donâ€™t take my sunshine away.
+You’ll never know dear, how much I love you
+Please don’t take my sunshine away.
 \endverse
 \beginverse*
 The other night dear,
@@ -4230,7 +3016,7 @@ Onze bloedrode zeeroversvlag!
 \beginverse*
 Wij werpen ons op het vijandige schip 
 Als een weggeslingerde speer 
-De kanonnen dreunen, â€™t geweer knalt rondom
+De kanonnen dreunen, ’t geweer knalt rondom
 En de enterbijl hakt keer op keer
 En reeds zinkt de vlag van den vijand omlaag. Overwinningsgeroep alom Lang leve de bruisende zee! Lang leve de zeeroverij. 
 \endverse
@@ -4241,7 +3027,7 @@ Dan fluks onze wrakkige schuit naar den
 Duivel gestuurd en ter helle gedaald 
 En als satan dan onze wil niet doet Ai- dan roosteren wij hem eens fel 
 Want wij zijn de heersers der aard 
-En wij willen â€™t ook zijn in de hel!
+En wij willen ’t ook zijn in de hel!
 \endverse
 \endsong
 \beginsong{Zeg kwezelken, wilde gij dansen?}
@@ -4260,7 +3046,7 @@ Zeg kwezelken, wilde gij dansen?
 Ik zal u geven een koe.
 Wel neen ik, zei dat kwezelken,
 Van dansen word ik te moe.
-'k En kan niet â€¦
+'k En kan niet …
 \endverse
 \beginverse*
 Zeg kwezelken, wilde gij
@@ -4268,7 +3054,7 @@ dansen?
 Ik zal u geven een paard.
 Wel neen ik, zei dat kwezelken,
 't En is mij 't dansen niet waard
-'k En kan nietâ€¦
+'k En kan niet…
 \endverse
 \beginverse*
 Zeg kwezelken, wilde gij dansen,
@@ -4322,8 +3108,8 @@ Zingen is een ding dat ons bijeen houdt.
 \beginverse*
 Bij 't kraaien van de haan,
 Stappen wij al op de baan,
-De knapzak op de rug en blote knieÃ«n.
-Dan zoeken wij inâ€™t bos,
+De knapzak op de rug en blote knieën.
+Dan zoeken wij in’t bos,
 Naar het zachtste plekje mos. 
 Intusen zingen wij er dan maar flink op los. 
 \endverse
@@ -4401,12 +3187,3 @@ maar dat smaakt toch even goed
 als men op kamping gaat
 \endverse
 \endsong
-
-
-
-
-\end{songs}
-
-\showindex[2]{Inhoudstafel}{mainindex}
-
-\end{document}
