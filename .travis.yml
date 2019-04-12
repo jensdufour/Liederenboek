@@ -1,6 +1,6 @@
 sudo: required
 script:
-- sudo apt-get install libfontconfig1-dev libgraphite2-dev libharfbuzz-dev libicu-dev libssl-dev zlib1g-dev biber
+- sudo apt-get install libfontconfig1-dev libgraphite2-dev libharfbuzz-dev libicu-dev libssl-dev zlib1g-dev biber cargo
 - cargo install tectonic
 - tectonic SongBook.tex
 deploy:
