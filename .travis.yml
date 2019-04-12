@@ -1,10 +1,8 @@
 sudo: required
-services:
-- docker
 script:
-- docker pull dxjoke/tectonic-docker
-- docker run --mount src=$TRAVIS_BUILD_DIR,target=/usr/src/tex,type=bind dxjoke/tectonic-docker
-  /bin/sh -c "tectonic --keep-intermediates --reruns 0 SongBook.tex"
+- sudo apt-get install libfontconfig1-dev libgraphite2-dev libharfbuzz-dev libicu-dev libssl-dev zlib1g-dev biber
+- cargo install tectonic
+- tectonic SongBook.tex
 deploy:
   provider: releases
   api_key:
