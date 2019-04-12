@@ -1,17 +1,9 @@
 % !TeX spellcheck = be_NL
 \documentclass{article}
-\usepackage[bookmarks]{hyperref}
+\input{Settings}
 \usepackage[lyric]{songs}
 \usepackage{graphicx}
-\usepackage{pgffor}
-\graphicspath{ {images/} }
- 
-\def\app@exe{\immediate\write18}
-\def\inputAllFiles#1{%
-	\app@exe{ls #1/*.txt | xargs cat >> \jobname.tmp}%
-	\InputIfFileExists{\jobname.tmp}{}
-	\AtEndDocument{\app@exe{rm -f #1/\jobname.tmp}}}
- 
+\graphicspath{{images/}}
 \setlength{\oddsidemargin}{0in}
 \setlength{\evensidemargin}{0in}
 \setlength{\textwidth}{7in}
@@ -24,14 +16,9 @@
 \renewcommand{\chorusjustify}{\justifyleft}
 \pagestyle{empty}
 \songcolumns{2} 
-\newindex{titleidx}{cbtitle} 
-
 \begin{document}
-
-\input{TitlePage.tex}
-
+\input{TitlePage}
 \begin{songs}{}
-\inputAllFiles{songs/}
+\inputAllFiles{songs}
 \end{songs}
-\showindex{Index of Songs}{titleidx}
 \end{document}

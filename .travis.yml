@@ -1,0 +1,14 @@
+sudo: required
+services:
+- docker
+script:
+- docker pull dxjoke/tectonic-docker
+- docker run --mount src=$TRAVIS_BUILD_DIR,target=/usr/src/tex,type=bind dxjoke/tectonic-docker
+  /bin/sh -c "tectonic --keep-intermediates --reruns 0 SongBook.tex"
+deploy:
+  provider: releases
+  api_key:
+    secure: QxqfaNJljkmGsUzo9Qak3DhsSyWEkZ3PUJ2fMZtv8pQ24bbiJfNkSI5J0KT/jfg68TLmi9sH19TS7LuUK+8qWoKcVmhqmAaEhLI2Akcy9vjRtIpzfIK+Qmb6aektCfjQS6p9U1txRXdVk8s00xjXGaXW6ILw4k9z0KdwNqnTUAPyNCXIPoJ+rXTCLbN3Aru9GopcsZYJ+Fm3xRNwDXawa748yLYwCcLMSXk26io4k/hvz8YEiK5frXTbmVoSrLaGAkx3zrgFy8p9rZWH5b62N9sqh4TKdBsogpkH/B3vLrlXtTGVcd0DibtcuS73g2o5wUzLdCJYHiBcfQTAbuN3iFE+wGYKCSw4bfpfPQ/peJpIroHqVQ91l+fz8a8+1OS5o5igu3hXALvzH/MnmnIrQiE/YNQ2Vf5J5eVN6Cxc71YxpKD8P8BxiSOdgSG+AZ32QZaIcil0kgwLGt6vvdeo8jt1y9LqRXQY/EVaJn12m3qMR0hNrrLguf+L0848HBJIt4je91yCntq+HUxhaPg0yaymUBvEN6QoRF6D9coFYm9C51vebskHMQSnRD6iNUFgKcve8W4i8lyzPucxVzl2CEwM+kCeYQWDWt4G7t35qO889tavbJmB11v3vy49F/dhqaBqbiTkbr/98eKkgs3tawAXZYARDXc1HujDImK6810=
+  file: SongBook.pdf
+  on:
+    repo: jensdufour/SongBook
