@@ -2,7 +2,10 @@ sudo: required
 
 services:
   - docker
-  
+
+before_script:
+  - python listFiles.py
+
 script:
  - docker pull firilith/docker-tectonic
  - docker run --mount src=$TRAVIS_BUILD_DIR,target=/usr/src/tex,type=bind firilith/docker-tectonic /bin/sh -c "tectonic SongBook.tex"
