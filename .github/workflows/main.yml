@@ -11,3 +11,4 @@ jobs:
         with:
           root_file: SongBook.tex
           args:  -shell-escape
+          compiler: pdflatex
