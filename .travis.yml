@@ -5,7 +5,5 @@ before_script:
   - python listFiles.py
 script: 
   - chmod +x latexdockercmd.sh 
-  - ./latexdockercmd.sh latexmk -interaction=nonstopmode -shell-escape -f SongBook.tex
   - ./songidx titleidx.sxd titleidx.sbx
-  - ./songidx authidx.sxd authidx.sbx
   - ./latexdockercmd.sh latexmk -interaction=nonstopmode -shell-escape -f SongBook.tex
