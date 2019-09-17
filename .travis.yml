@@ -5,4 +5,7 @@ before_script:
   - python listFiles.py
 script: 
   - chmod +x latexdockercmd.sh 
-  - ./latexdockercmd.sh latexmk -c -pdf SongBook.tex
+  - ./latexdockercmd.sh latexmk SongBook.tex
+  - ./songidx titleidx.sxd titleidx.sbx
+  - ./songidx authidx.sxd authidx.sbx
+  - ./latexdockercmd.sh latexmk SongBook.tex
