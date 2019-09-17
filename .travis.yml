@@ -1,11 +1,17 @@
-sudo: required 
-dist: trusty 
-services: docker 
+sudo: required
+dist: trusty
+services: docker
 before_script:
-  - python listFiles.py
-script: 
-  - chmod +x latexdockercmd.sh 
-  - ./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error SongBook.tex
-  - ./songidx titleidx.sxd titleidx.sbx
-  - ./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error SongBook.tex
-  
+- python listFiles.py
+script:
+- chmod +x latexdockercmd.sh
+- "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error SongBook.tex"
+- "./songidx titleidx.sxd titleidx.sbx"
+- "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error SongBook.tex"
+deploy:
+  provider: releases
+  api_key:
+    secure: KwCIpFGri53il2u/asbfGn8qS3FGz02hHHqIhnmwZSQ/pmG5ovk9aHx/sudHAIfJw+Uthjn8adYxkdwLfABtHwq22FeU5AarRO2EfJTRbpyEuBLd/3OGmTDJL0Rtyw8uGXnd3lC28WYYDDyVjF955Qr7jzBabjYnVrYjxZkqgF597bbQ2FLlTmz3a0ntwUQG73Q2vkUJ/Fuulapj23lnE8dgWtFhvXGDLuPFt35EareTkyk1/V37FHQDurrN3E/6pQIDJag6oMwGCYCksgcWx5AFG0mlWx8TSPoNyb7pbE25GkrgxiqRDWQToE9vra/Ea21BO8+ZPcY5HLBkxpGPfQ0oUZD9GA7/XtfOctQGDLRw9/H2VZKfIwsXTMPhPKwcFIDqr/FmSpo9VG3RwL4D93NTtZwPoBKz02Ku6uwrYEtmbJNLCJnzK5smeM115ncgh4fFMSRHVqmge7RUlSi7lCI0obdULf5w9Ydur2Io/h/k9tzYgyiSSCFw1pXANOwNcMaY27G9InbvIwSURHNy7mPN97eDdg8I+XcWKVvsHosbPmgxtD4HiNgH1iHkJRki7MxzcqyoFfR2azEWsOxPoHiqhHR5AbWNsdc3l47vFR4w87bmniSK93tMfQWkBqrGIh2JPA3m2yGRH2xYCFCODtsFOukySRZ86GwIoYNGEkQ=
+  file: SongBook.pdf
+  on:
+    repo: jensdufour/SongBook
