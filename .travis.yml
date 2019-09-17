@@ -5,8 +5,8 @@ before_script:
   - python listFiles.py
 script: 
   - chmod +x latexdockercmd.sh 
-  - ./latexdockercmd.sh latexmk -interaction=nonstopmode -halt-on-error SongBook.tex -outdir=./_build
+  - ./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error SongBook.tex
   - ./songidx titleidx.sxd titleidx.sbx
   - ./songidx authidx.sxd authidx.sbx
-  - ./latexdockercmd.sh latexmk -interaction=nonstopmode -halt-on-error SongBook.tex -outdir=./_build
+  - ./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error SongBook.tex
   
