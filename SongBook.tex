@@ -1,7 +1,9 @@
 % !TeX spellcheck = be_NL
 \documentclass{article}
 \usepackage[lyric]{songs}
+\nosongnumbers
 \usepackage{graphicx}
+\usepackage{pdfpages}
 \graphicspath{{images/}}
 \setlength{\oddsidemargin}{0in}
 \setlength{\evensidemargin}{0in}
@@ -14,10 +16,12 @@
 \settowidth{\versenumwidth}{1.\ }
 \renewcommand{\chorusjustify}{\justifyleft}
 \pagestyle{empty}
-\songcolumns{2} 
+\songcolumns{2}
+\newindex{titleidx}{titleidx} 
 \begin{document}
 \input{TitlePage}
-\begin{songs}{}
+\begin{songs}{titleidx}
 \input{Songs.tex}
 \end{songs}
+\showindex{Inhoudstafel}{titleidx}
 \end{document}
