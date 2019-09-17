@@ -10,8 +10,8 @@ script:
 - "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error SongBook.tex"
 deploy:
   provider: releases
-  api_key:
-    secure: amt7XQh5nq3geRnSP5CBP9m6yoqHnCNzWGH8bwNF8xnzE5Qmh5zYR8Ywz4CZo2cd/S47m5kRH3TTJBPKKLJ9Jse8iI5H5LZkeQ3XwbNKrMC5rd9IrQGrPcei7ZfXS6+tFAYxF/THxjD2dwOFiv7tb8+jNJg0tGhbZiHmA5FstA//XE2XjNADVDhEYFN6xAZ8XRb0JlFsfGNkCqdmrH9WUu9ZyKG+Ez4zi9HuZRFBG/27jMplSQQ4eSNPIimQKXBwdCtNYR97D8iXGy5ihsLkP85tCmGvLraxMoOn9GPd84aDBICxGs3CPiK41Dna26rRio2v4Bcgozh3bi/cju0vGX0xa1nQ4Px19NuznyKsW7NCSlDIvoA5nmioVfzNi91MFeaomy1taxMYlepvK2ObxmVWEk0v/iknXairtJq8Ta5xnch+Ucrf/39K6V5obOmdCFnrV7qhgJOKxNRX5IxhI91P4Vmxt1ZZDnJ5SWqWmPPw66TGZu8PB67yr4UpADpDow921heifhHt5pZSiO5k/ctGut1ERCh78IH5EJL5NEgNs1Ix5SXmPBemOLos0tpBJRXvCQYtdY2I7CLOaYNG0lvDh4iZWHI4PWLfC1YJKgivcj0KAOdU9dkm7zj0uwb9BOjB/8cUoW4r5+OvstSXeFU5q83vtQYPhfA8EcPl78k=
+  api_key: $GITHUB_TOKEN
+  skip_cleanup: true
   file: SongBook.pdf
   on:
     repo: jensdufour/SongBook
