@@ -5,7 +5,8 @@ before_script:
 - python listFiles.py
 script:
 - chmod +x latexdockercmd.sh
-- "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf SongBook.tex; ./songidx titleidx.sxd titleidx.sbx;./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf SongBook.tex"
+- docker pull firilith/docker-tectonic
+- docker run --mount src=$TRAVIS_BUILD_DIR,target=/usr/src/tex,type=bind firilith/docker-tectonic /bin/sh -c "tectonic --keep-intermediates --reruns 0 SongBook.tex; songidx titleidx.sxd titleidx.sbx; tectonic SongBook.tex"
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
