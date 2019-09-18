@@ -5,9 +5,7 @@ before_script:
 - python listFiles.py
 script:
 - chmod +x latexdockercmd.sh
-- "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf SongBook.tex"
-- "./songidx titleidx.sxd titleidx.sbx"
-- "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf SongBook.tex"
+- "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf SongBook.tex; ./songidx titleidx.sxd titleidx.sbx;./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf SongBook.tex"
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
