@@ -4,10 +4,8 @@ services: docker
 before_script:
 - python listFiles.py
 script:
-- "chmod +x latexdockercmd.sh"
-- "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex"
-- "./latexdockercmd.sh ./songidx titleidx.sxd titleidx.sbx"
-- "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex"
+- docker pull blang/latex:ubuntu
+- docker run --mount src=$TRAVIS_BUILD_DIR,target=/usr/src/tex,type=bind blang/latex:ubuntu /bin/sh -c "latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex; ./songidx titleidx.sxd titleidx.sbx;latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex;"
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
