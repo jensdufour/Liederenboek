@@ -5,7 +5,7 @@ before_script:
 - python listFiles.py
 script:
 - docker pull blang/latex:ubuntu
-- docker run --rm -i --user="$(id -u):$(id -g)" --net=none -v "$PWD":/data blang/latex:ubuntu /bin/sh -c "latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex; ./songidx titleidx.sxd titleidx.sbx;latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex;"
+- docker run --rm -i --user="$(id -u):$(id -g)" --net=none -v "$PWD":/data blang/latex:ubuntu /bin/sh -c "latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex; .\songidx titleidx.sxd titleidx.sbx;latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex;"
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
