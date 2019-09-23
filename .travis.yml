@@ -4,9 +4,9 @@ services: docker
 before_script:
 - python listFiles.py
 script:
-- chmod +x latexdockercmd.sh
+- "chmod +x latexdockercmd.sh"
 - "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex"
-- "./songidx titleidx.sxd titleidx.sbx"
+- "./latexdockercmd.sh songidx titleidx.sxd titleidx.sbx"
 - "./latexdockercmd.sh latexmk -xelatex -interaction=nonstopmode -halt-on-error -pdf -shell-escape SongBook.tex"
 deploy:
   provider: releases
