@@ -131,3 +131,7 @@ sympy-plots-for-*.tex/
 # Vim-LaTeX
 *.latexmain
 songs.sty
+SongBook.sxc
+Songs.tex
+titleidx.sxd
+titleidx.sbx
