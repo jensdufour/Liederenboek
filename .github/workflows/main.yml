@@ -38,7 +38,7 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           # The root LaTeX file to be compiled
-          root_file: SongBook
+          root_file: SongBook.tex
           # The LaTeX engine to be invoked
           compiler: pdflatex # optional, default is latexmk
           # Arbitrary bash codes to be executed before compiling LaTeX documents
